@@ -1,0 +1,214 @@
+[
+  {
+    "name": "bulbasaur",
+    "id": 1,
+    "alternateForms": [
+      "bulbasaur"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "id": 2,
+    "alternateForms": [
+      "ivysaur"
+    ]
+  },
+  {
+    "name": "venusaur",
+    "id": 3,
+    "alternateForms": [
+      "venusaur",
+      "venusaur-mega",
+      "venusaur-gmax"
+    ]
+  },
+  {
+    "name": "charmander",
+    "id": 4,
+    "alternateForms": [
+      "charmander"
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "id": 5,
+    "alternateForms": [
+      "charmeleon"
+    ]
+  },
+  {
+    "name": "charizard",
+    "id": 6,
+    "alternateForms": [
+      "charizard",
+      "charizard-mega-x",
+      "charizard-mega-y",
+      "charizard-gmax"
+    ]
+  },
+  {
+    "name": "squirtle",
+    "id": 7,
+    "alternateForms": [
+      "squirtle"
+    ]
+  },
+  {
+    "name": "wartortle",
+    "id": 8,
+    "alternateForms": [
+      "wartortle"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "id": 9,
+    "alternateForms": [
+      "blastoise",
+      "blastoise-mega",
+      "blastoise-gmax"
+    ]
+  },
+  {
+    "name": "caterpie",
+    "id": 10,
+    "alternateForms": [
+      "caterpie"
+    ]
+  },
+  {
+    "name": "metapod",
+    "id": 11,
+    "alternateForms": [
+      "metapod"
+    ]
+  },
+  {
+    "name": "butterfree",
+    "id": 12,
+    "alternateForms": [
+      "butterfree",
+      "butterfree-gmax"
+    ]
+  },
+  {
+    "name": "weedle",
+    "id": 13,
+    "alternateForms": [
+      "weedle"
+    ]
+  },
+  {
+    "name": "kakuna",
+    "id": 14,
+    "alternateForms": [
+      "kakuna"
+    ]
+  },
+  {
+    "name": "beedrill",
+    "id": 15,
+    "alternateForms": [
+      "beedrill",
+      "beedrill-mega"
+    ]
+  },
+  {
+    "name": "pidgey",
+    "id": 16,
+    "alternateForms": [
+      "pidgey"
+    ]
+  },
+  {
+    "name": "pidgeotto",
+    "id": 17,
+    "alternateForms": [
+      "pidgeotto"
+    ]
+  },
+  {
+    "name": "pidgeot",
+    "id": 18,
+    "alternateForms": [
+      "pidgeot",
+      "pidgeot-mega"
+    ]
+  },
+  {
+    "name": "rattata",
+    "id": 19,
+    "alternateForms": [
+      "rattata",
+      "rattata-alola"
+    ]
+  },
+  {
+    "name": "raticate",
+    "id": 20,
+    "alternateForms": [
+      "raticate",
+      "raticate-alola",
+      "raticate-totem-alola"
+    ]
+  },
+  {
+    "name": "spearow",
+    "id": 21,
+    "alternateForms": [
+      "spearow"
+    ]
+  },
+  {
+    "name": "fearow",
+    "id": 22,
+    "alternateForms": [
+      "fearow"
+    ]
+  },
+  {
+    "name": "ekans",
+    "id": 23,
+    "alternateForms": [
+      "ekans"
+    ]
+  },
+  {
+    "name": "arbok",
+    "id": 24,
+    "alternateForms": [
+      "arbok"
+    ]
+  },
+  {
+    "name": "pikachu",
+    "id": 25,
+    "alternateForms": [
+      "pikachu",
+      "pikachu-rock-star",
+      "pikachu-belle",
+      "pikachu-pop-star",
+      "pikachu-phd",
+      "pikachu-libre",
+      "pikachu-cosplay",
+      "pikachu-original-cap",
+      "pikachu-hoenn-cap",
+      "pikachu-sinnoh-cap",
+      "pikachu-unova-cap",
+      "pikachu-kalos-cap",
+      "pikachu-alola-cap",
+      "pikachu-partner-cap",
+      "pikachu-starter",
+      "pikachu-world-cap",
+      "pikachu-gmax"
+    ]
+  },
+  {
+    "name": "raichu",
+    "id": 26,
+    "alternateForms": [
+      "raichu",
+      "raichu-alola"
+    ]
+  }
+]
