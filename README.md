@@ -1,3 +1,3 @@
 # pokemon-json
 
-run `node pokemonList.js` in terminal
+run `node ./functions/fileFunctions.js` in terminal
