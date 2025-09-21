@@ -1,6 +1,6 @@
 const fs = require("fs");
 const { tryCatch } = require("./callFunction");
-const { createPokemonObject } = require("./createPokemonObject");
+const { buildPokemonJsonObj } = require("./buildPokemonJsonObj");
 
 const writeFile = (inputFile, outputFile, jsonString) => {
   tryCatch("writeFile", () =>
@@ -15,7 +15,7 @@ const convertTxtFileToJSON = async (inputFile, outputFile) => {
   tryCatch("convertTxtFileToJSON", () =>
     fs.readFile(inputFile, "utf8", async (err, data) => {
       if (err) return;
-      return writeFile(inputFile, outputFile, await createPokemonObject(data));
+      return writeFile(inputFile, outputFile, await buildPokemonJsonObj(data));
     })
   );
 };
