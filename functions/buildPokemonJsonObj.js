@@ -2,7 +2,6 @@ const {
   getPokemonSpeciesData,
   createPokeVarietyObj,
 } = require("./callPokemonAPI");
-const { tryCatch } = require("./callFunction");
 
 const buildPokemonJsonObj = async (data) => {
   const pokemonApiArray = data
