@@ -5,7 +5,7 @@ const displayError = (methodName, err) => {
   );
 };
 
-const tryCatch = (methodName, callback, parameters) => {
+const tryCatch = (methodName, callback, parameters = {}) => {
   try {
     return callback(parameters);
   } catch (err) {
