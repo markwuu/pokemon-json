@@ -18,7 +18,7 @@ const createPokeVarietyObj = async (pokemonObject) => {
       results.push({
         id,
         name,
-        alternateForms: alternateForms ? alternateForms : [],
+        alternateForms,
       });
     }
 
