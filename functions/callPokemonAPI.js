@@ -1,5 +1,5 @@
 const getRequest = require("./getRequest");
-const displayError = require("./displayError");
+const displayError = require("./callFunction");
 
 async function getPokemonData(pokemon) {
   const methodName = "getPokemonData";

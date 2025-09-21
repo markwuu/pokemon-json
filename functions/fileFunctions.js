@@ -1,7 +1,7 @@
 const fs = require("fs");
 const outputJsonFile = "./files/outputFiles/pokemon.json";
 const inputTxtFile = "./files/inputFiles/pokemon2.txt";
-const { displayError } = require("./displayError");
+const { displayError } = require("./callFunction");
 const { createPokemonObject } = require("./createPokemonObject");
 
 const writeFile = (jsonString) => {
