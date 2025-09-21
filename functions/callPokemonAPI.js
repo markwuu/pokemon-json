@@ -1,40 +1,30 @@
-const getRequest = require("./getRequest");
-const displayError = require("./callFunction");
+const sendGetReq = require("./sendGetReq");
+const { tryCatch } = require("./callFunction");
 
-async function getPokemonData(pokemon) {
-  const methodName = "getPokemonData";
+const getPokemonSpeciesData = async (pokemon) => {
+  const url = `https://pokeapi.co/api/v2/pokemon-species/${pokemon}/`;
+  return tryCatch("getPokemonSpeciesData", async () =>
+    JSON.parse(await sendGetReq(url))
+  );
+};
 
-  try {
-    const response = await getRequest(
-      `https://pokeapi.co/api/v2/pokemon-species/${pokemon}/`
-    );
-    return JSON.parse(response);
-  } catch (err) {
-    displayError(methodName, err);
-  }
-}
-
-async function callApisSequentially(pokemonArrayObject) {
-  const methodName = "callApisSequentially";
-
-  try {
+const createPokeObjectFromApiCall = async (pokemonApiObject) => {
+  return tryCatch("createPokeObjectFromApiCall", async () => {
     const results = [];
-    for (const pokemonObject of pokemonArrayObject) {
-      const response = await pokemonObject.apiCall();
-      const { id, varieties, name } = response;
+    for (const obj of pokemonApiObject) {
+      const { id, varieties, name } = await obj.apiCall();
       results.push({
         id,
         name,
         varieties,
       });
     }
+
     return results;
-  } catch (err) {
-    displayError(methodName, err);
-  }
-}
+  });
+};
 
 module.exports = {
-  getPokemonData,
-  callApisSequentially,
+  getPokemonSpeciesData,
+  createPokeObjectFromApiCall,
 };
