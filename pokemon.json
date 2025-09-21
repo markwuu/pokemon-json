@@ -1,4102 +1,5127 @@
 [
   {
-    "name": "Bulbasaur",
-    "number": 1
+    "name": "bulbasaur",
+    "number": 1,
+    "alternateNames": []
   },
   {
-    "name": "Ivysaur",
-    "number": 2
+    "name": "ivysaur",
+    "number": 2,
+    "alternateNames": []
   },
   {
-    "name": "Venusaur",
-    "number": 3
+    "name": "venusaur",
+    "number": 3,
+    "alternateNames": []
   },
   {
-    "name": "Charmander",
-    "number": 4
+    "name": "charmander",
+    "number": 4,
+    "alternateNames": []
   },
   {
-    "name": "Charmeleon",
-    "number": 5
+    "name": "charmeleon",
+    "number": 5,
+    "alternateNames": []
   },
   {
-    "name": "Charizard",
-    "number": 6
+    "name": "charizard",
+    "number": 6,
+    "alternateNames": []
   },
   {
-    "name": "Squirtle",
-    "number": 7
+    "name": "squirtle",
+    "number": 7,
+    "alternateNames": []
   },
   {
-    "name": "Wartortle",
-    "number": 8
+    "name": "wartortle",
+    "number": 8,
+    "alternateNames": []
   },
   {
-    "name": "Blastoise",
-    "number": 9
+    "name": "blastoise",
+    "number": 9,
+    "alternateNames": []
   },
   {
-    "name": "Caterpie",
-    "number": 10
+    "name": "caterpie",
+    "number": 10,
+    "alternateNames": []
   },
   {
-    "name": "Metapod",
-    "number": 11
+    "name": "metapod",
+    "number": 11,
+    "alternateNames": []
   },
   {
-    "name": "Butterfree",
-    "number": 12
+    "name": "butterfree",
+    "number": 12,
+    "alternateNames": []
   },
   {
-    "name": "Weedle",
-    "number": 13
+    "name": "weedle",
+    "number": 13,
+    "alternateNames": []
   },
   {
-    "name": "Kakuna",
-    "number": 14
+    "name": "kakuna",
+    "number": 14,
+    "alternateNames": []
   },
   {
-    "name": "Beedrill",
-    "number": 15
+    "name": "beedrill",
+    "number": 15,
+    "alternateNames": []
   },
   {
-    "name": "Pidgey",
-    "number": 16
+    "name": "pidgey",
+    "number": 16,
+    "alternateNames": []
   },
   {
-    "name": "Pidgeotto",
-    "number": 17
+    "name": "pidgeotto",
+    "number": 17,
+    "alternateNames": []
   },
   {
-    "name": "Pidgeot",
-    "number": 18
+    "name": "pidgeot",
+    "number": 18,
+    "alternateNames": []
   },
   {
-    "name": "Rattata",
-    "number": 19
+    "name": "rattata",
+    "number": 19,
+    "alternateNames": []
   },
   {
-    "name": "Raticate",
-    "number": 20
+    "name": "raticate",
+    "number": 20,
+    "alternateNames": []
   },
   {
-    "name": "Spearow",
-    "number": 21
+    "name": "spearow",
+    "number": 21,
+    "alternateNames": []
   },
   {
-    "name": "Fearow",
-    "number": 22
+    "name": "fearow",
+    "number": 22,
+    "alternateNames": []
   },
   {
-    "name": "Ekans",
-    "number": 23
+    "name": "ekans",
+    "number": 23,
+    "alternateNames": []
   },
   {
-    "name": "Arbok",
-    "number": 24
+    "name": "arbok",
+    "number": 24,
+    "alternateNames": []
   },
   {
-    "name": "Pikachu",
-    "number": 25
+    "name": "pikachu",
+    "number": 25,
+    "alternateNames": []
   },
   {
-    "name": "Raichu",
-    "number": 26
+    "name": "raichu",
+    "number": 26,
+    "alternateNames": []
   },
   {
-    "name": "Sandshrew",
-    "number": 27
+    "name": "sandshrew",
+    "number": 27,
+    "alternateNames": []
   },
   {
-    "name": "Sandslash",
-    "number": 28
+    "name": "sandslash",
+    "number": 28,
+    "alternateNames": []
   },
   {
-    "name": "Nidoran♀",
-    "number": 29
+    "name": "nidoran♀",
+    "number": 29,
+    "alternateNames": []
   },
   {
-    "name": "Nidorina",
-    "number": 30
+    "name": "nidorina",
+    "number": 30,
+    "alternateNames": []
   },
   {
-    "name": "Nidoqueen",
-    "number": 31
+    "name": "nidoqueen",
+    "number": 31,
+    "alternateNames": []
   },
   {
-    "name": "Nidoran♂",
-    "number": 32
+    "name": "nidoran♂",
+    "number": 32,
+    "alternateNames": []
   },
   {
-    "name": "Nidorino",
-    "number": 33
+    "name": "nidorino",
+    "number": 33,
+    "alternateNames": []
   },
   {
-    "name": "Nidoking",
-    "number": 34
+    "name": "nidoking",
+    "number": 34,
+    "alternateNames": []
   },
   {
-    "name": "Clefairy",
-    "number": 35
+    "name": "clefairy",
+    "number": 35,
+    "alternateNames": []
   },
   {
-    "name": "Clefable",
-    "number": 36
+    "name": "clefable",
+    "number": 36,
+    "alternateNames": []
   },
   {
-    "name": "Vulpix",
-    "number": 37
+    "name": "vulpix",
+    "number": 37,
+    "alternateNames": []
   },
   {
-    "name": "Ninetales",
-    "number": 38
+    "name": "ninetales",
+    "number": 38,
+    "alternateNames": []
   },
   {
-    "name": "Jigglypuff",
-    "number": 39
+    "name": "jigglypuff",
+    "number": 39,
+    "alternateNames": []
   },
   {
-    "name": "Wigglytuff",
-    "number": 40
+    "name": "wigglytuff",
+    "number": 40,
+    "alternateNames": []
   },
   {
-    "name": "Zubat",
-    "number": 41
+    "name": "zubat",
+    "number": 41,
+    "alternateNames": []
   },
   {
-    "name": "Golbat",
-    "number": 42
+    "name": "golbat",
+    "number": 42,
+    "alternateNames": []
   },
   {
-    "name": "Oddish",
-    "number": 43
+    "name": "oddish",
+    "number": 43,
+    "alternateNames": []
   },
   {
-    "name": "Gloom",
-    "number": 44
+    "name": "gloom",
+    "number": 44,
+    "alternateNames": []
   },
   {
-    "name": "Vileplume",
-    "number": 45
+    "name": "vileplume",
+    "number": 45,
+    "alternateNames": []
   },
   {
-    "name": "Paras",
-    "number": 46
+    "name": "paras",
+    "number": 46,
+    "alternateNames": []
   },
   {
-    "name": "Parasect",
-    "number": 47
+    "name": "parasect",
+    "number": 47,
+    "alternateNames": []
   },
   {
-    "name": "Venonat",
-    "number": 48
+    "name": "venonat",
+    "number": 48,
+    "alternateNames": []
   },
   {
-    "name": "Venomoth",
-    "number": 49
+    "name": "venomoth",
+    "number": 49,
+    "alternateNames": []
   },
   {
-    "name": "Diglett",
-    "number": 50
+    "name": "diglett",
+    "number": 50,
+    "alternateNames": []
   },
   {
-    "name": "Dugtrio",
-    "number": 51
+    "name": "dugtrio",
+    "number": 51,
+    "alternateNames": []
   },
   {
-    "name": "Meowth",
-    "number": 52
+    "name": "meowth",
+    "number": 52,
+    "alternateNames": []
   },
   {
-    "name": "Persian",
-    "number": 53
+    "name": "persian",
+    "number": 53,
+    "alternateNames": []
   },
   {
-    "name": "Psyduck",
-    "number": 54
+    "name": "psyduck",
+    "number": 54,
+    "alternateNames": []
   },
   {
-    "name": "Golduck",
-    "number": 55
+    "name": "golduck",
+    "number": 55,
+    "alternateNames": []
   },
   {
-    "name": "Mankey",
-    "number": 56
+    "name": "mankey",
+    "number": 56,
+    "alternateNames": []
   },
   {
-    "name": "Primeape",
-    "number": 57
+    "name": "primeape",
+    "number": 57,
+    "alternateNames": []
   },
   {
-    "name": "Growlithe",
-    "number": 58
+    "name": "growlithe",
+    "number": 58,
+    "alternateNames": []
   },
   {
-    "name": "Arcanine",
-    "number": 59
+    "name": "arcanine",
+    "number": 59,
+    "alternateNames": []
   },
   {
-    "name": "Poliwag",
-    "number": 60
+    "name": "poliwag",
+    "number": 60,
+    "alternateNames": []
   },
   {
-    "name": "Poliwhirl",
-    "number": 61
+    "name": "poliwhirl",
+    "number": 61,
+    "alternateNames": []
   },
   {
-    "name": "Poliwrath",
-    "number": 62
+    "name": "poliwrath",
+    "number": 62,
+    "alternateNames": []
   },
   {
-    "name": "Abra",
-    "number": 63
+    "name": "abra",
+    "number": 63,
+    "alternateNames": []
   },
   {
-    "name": "Kadabra",
-    "number": 64
+    "name": "kadabra",
+    "number": 64,
+    "alternateNames": []
   },
   {
-    "name": "Alakazam",
-    "number": 65
+    "name": "alakazam",
+    "number": 65,
+    "alternateNames": []
   },
   {
-    "name": "Machop",
-    "number": 66
+    "name": "machop",
+    "number": 66,
+    "alternateNames": []
   },
   {
-    "name": "Machoke",
-    "number": 67
+    "name": "machoke",
+    "number": 67,
+    "alternateNames": []
   },
   {
-    "name": "Machamp",
-    "number": 68
+    "name": "machamp",
+    "number": 68,
+    "alternateNames": []
   },
   {
-    "name": "Bellsprout",
-    "number": 69
+    "name": "bellsprout",
+    "number": 69,
+    "alternateNames": []
   },
   {
-    "name": "Weepinbell",
-    "number": 70
+    "name": "weepinbell",
+    "number": 70,
+    "alternateNames": []
   },
   {
-    "name": "Victreebel",
-    "number": 71
+    "name": "victreebel",
+    "number": 71,
+    "alternateNames": []
   },
   {
-    "name": "Tentacool",
-    "number": 72
+    "name": "tentacool",
+    "number": 72,
+    "alternateNames": []
   },
   {
-    "name": "Tentacruel",
-    "number": 73
+    "name": "tentacruel",
+    "number": 73,
+    "alternateNames": []
   },
   {
-    "name": "Geodude",
-    "number": 74
+    "name": "geodude",
+    "number": 74,
+    "alternateNames": []
   },
   {
-    "name": "Graveler",
-    "number": 75
+    "name": "graveler",
+    "number": 75,
+    "alternateNames": []
   },
   {
-    "name": "Golem",
-    "number": 76
+    "name": "golem",
+    "number": 76,
+    "alternateNames": []
   },
   {
-    "name": "Ponyta",
-    "number": 77
+    "name": "ponyta",
+    "number": 77,
+    "alternateNames": []
   },
   {
-    "name": "Rapidash",
-    "number": 78
+    "name": "rapidash",
+    "number": 78,
+    "alternateNames": []
   },
   {
-    "name": "Slowpoke",
-    "number": 79
+    "name": "slowpoke",
+    "number": 79,
+    "alternateNames": []
   },
   {
-    "name": "Slowbro",
-    "number": 80
+    "name": "slowbro",
+    "number": 80,
+    "alternateNames": []
   },
   {
-    "name": "Magnemite",
-    "number": 81
+    "name": "magnemite",
+    "number": 81,
+    "alternateNames": []
   },
   {
-    "name": "Magneton",
-    "number": 82
+    "name": "magneton",
+    "number": 82,
+    "alternateNames": []
   },
   {
-    "name": "Farfetch'd",
-    "number": 83
+    "name": "farfetch'd",
+    "number": 83,
+    "alternateNames": []
   },
   {
-    "name": "Doduo",
-    "number": 84
+    "name": "doduo",
+    "number": 84,
+    "alternateNames": []
   },
   {
-    "name": "Dodrio",
-    "number": 85
+    "name": "dodrio",
+    "number": 85,
+    "alternateNames": []
   },
   {
-    "name": "Seel",
-    "number": 86
+    "name": "seel",
+    "number": 86,
+    "alternateNames": []
   },
   {
-    "name": "Dewgong",
-    "number": 87
+    "name": "dewgong",
+    "number": 87,
+    "alternateNames": []
   },
   {
-    "name": "Grimer",
-    "number": 88
+    "name": "grimer",
+    "number": 88,
+    "alternateNames": []
   },
   {
-    "name": "Muk",
-    "number": 89
+    "name": "muk",
+    "number": 89,
+    "alternateNames": []
   },
   {
-    "name": "Shellder",
-    "number": 90
+    "name": "shellder",
+    "number": 90,
+    "alternateNames": []
   },
   {
-    "name": "Cloyster",
-    "number": 91
+    "name": "cloyster",
+    "number": 91,
+    "alternateNames": []
   },
   {
-    "name": "Gastly",
-    "number": 92
+    "name": "gastly",
+    "number": 92,
+    "alternateNames": []
   },
   {
-    "name": "Haunter",
-    "number": 93
+    "name": "haunter",
+    "number": 93,
+    "alternateNames": []
   },
   {
-    "name": "Gengar",
-    "number": 94
+    "name": "gengar",
+    "number": 94,
+    "alternateNames": []
   },
   {
-    "name": "Onix",
-    "number": 95
+    "name": "onix",
+    "number": 95,
+    "alternateNames": []
   },
   {
-    "name": "Drowzee",
-    "number": 96
+    "name": "drowzee",
+    "number": 96,
+    "alternateNames": []
   },
   {
-    "name": "Hypno",
-    "number": 97
+    "name": "hypno",
+    "number": 97,
+    "alternateNames": []
   },
   {
-    "name": "Krabby",
-    "number": 98
+    "name": "krabby",
+    "number": 98,
+    "alternateNames": []
   },
   {
-    "name": "Kingler",
-    "number": 99
+    "name": "kingler",
+    "number": 99,
+    "alternateNames": []
   },
   {
-    "name": "Voltorb",
-    "number": 100
+    "name": "voltorb",
+    "number": 100,
+    "alternateNames": []
   },
   {
-    "name": "Electrode",
-    "number": 101
+    "name": "electrode",
+    "number": 101,
+    "alternateNames": []
   },
   {
-    "name": "Exeggcute",
-    "number": 102
+    "name": "exeggcute",
+    "number": 102,
+    "alternateNames": []
   },
   {
-    "name": "Exeggutor",
-    "number": 103
+    "name": "exeggutor",
+    "number": 103,
+    "alternateNames": []
   },
   {
-    "name": "Cubone",
-    "number": 104
+    "name": "cubone",
+    "number": 104,
+    "alternateNames": []
   },
   {
-    "name": "Marowak",
-    "number": 105
+    "name": "marowak",
+    "number": 105,
+    "alternateNames": []
   },
   {
-    "name": "Hitmonlee",
-    "number": 106
+    "name": "hitmonlee",
+    "number": 106,
+    "alternateNames": []
   },
   {
-    "name": "Hitmonchan",
-    "number": 107
+    "name": "hitmonchan",
+    "number": 107,
+    "alternateNames": []
   },
   {
-    "name": "Lickitung",
-    "number": 108
+    "name": "lickitung",
+    "number": 108,
+    "alternateNames": []
   },
   {
-    "name": "Koffing",
-    "number": 109
+    "name": "koffing",
+    "number": 109,
+    "alternateNames": []
   },
   {
-    "name": "Weezing",
-    "number": 110
+    "name": "weezing",
+    "number": 110,
+    "alternateNames": []
   },
   {
-    "name": "Rhyhorn",
-    "number": 111
+    "name": "rhyhorn",
+    "number": 111,
+    "alternateNames": []
   },
   {
-    "name": "Rhydon",
-    "number": 112
+    "name": "rhydon",
+    "number": 112,
+    "alternateNames": []
   },
   {
-    "name": "Chansey",
-    "number": 113
+    "name": "chansey",
+    "number": 113,
+    "alternateNames": []
   },
   {
-    "name": "Tangela",
-    "number": 114
+    "name": "tangela",
+    "number": 114,
+    "alternateNames": []
   },
   {
-    "name": "Kangaskhan",
-    "number": 115
+    "name": "kangaskhan",
+    "number": 115,
+    "alternateNames": []
   },
   {
-    "name": "Horsea",
-    "number": 116
+    "name": "horsea",
+    "number": 116,
+    "alternateNames": []
   },
   {
-    "name": "Seadra",
-    "number": 117
+    "name": "seadra",
+    "number": 117,
+    "alternateNames": []
   },
   {
-    "name": "Goldeen",
-    "number": 118
+    "name": "goldeen",
+    "number": 118,
+    "alternateNames": []
   },
   {
-    "name": "Seaking",
-    "number": 119
+    "name": "seaking",
+    "number": 119,
+    "alternateNames": []
   },
   {
-    "name": "Staryu",
-    "number": 120
+    "name": "staryu",
+    "number": 120,
+    "alternateNames": []
   },
   {
-    "name": "Starmie",
-    "number": 121
+    "name": "starmie",
+    "number": 121,
+    "alternateNames": []
   },
   {
-    "name": "Mr. Mime",
-    "number": 122
+    "name": "mr-mime",
+    "number": 122,
+    "alternateNames": []
   },
   {
-    "name": "Scyther",
-    "number": 123
+    "name": "scyther",
+    "number": 123,
+    "alternateNames": []
   },
   {
-    "name": "Jynx",
-    "number": 124
+    "name": "jynx",
+    "number": 124,
+    "alternateNames": []
   },
   {
-    "name": "Electabuzz",
-    "number": 125
+    "name": "electabuzz",
+    "number": 125,
+    "alternateNames": []
   },
   {
-    "name": "Magmar",
-    "number": 126
+    "name": "magmar",
+    "number": 126,
+    "alternateNames": []
   },
   {
-    "name": "Pinsir",
-    "number": 127
+    "name": "pinsir",
+    "number": 127,
+    "alternateNames": []
   },
   {
-    "name": "Tauros",
-    "number": 128
+    "name": "tauros",
+    "number": 128,
+    "alternateNames": []
   },
   {
-    "name": "Magikarp",
-    "number": 129
+    "name": "magikarp",
+    "number": 129,
+    "alternateNames": []
   },
   {
-    "name": "Gyarados",
-    "number": 130
+    "name": "gyarados",
+    "number": 130,
+    "alternateNames": []
   },
   {
-    "name": "Lapras",
-    "number": 131
+    "name": "lapras",
+    "number": 131,
+    "alternateNames": []
   },
   {
-    "name": "Ditto",
-    "number": 132
+    "name": "ditto",
+    "number": 132,
+    "alternateNames": []
   },
   {
-    "name": "Eevee",
-    "number": 133
+    "name": "eevee",
+    "number": 133,
+    "alternateNames": []
   },
   {
-    "name": "Vaporeon",
-    "number": 134
+    "name": "vaporeon",
+    "number": 134,
+    "alternateNames": []
   },
   {
-    "name": "Jolteon",
-    "number": 135
+    "name": "jolteon",
+    "number": 135,
+    "alternateNames": []
   },
   {
-    "name": "Flareon",
-    "number": 136
+    "name": "flareon",
+    "number": 136,
+    "alternateNames": []
   },
   {
-    "name": "Porygon",
-    "number": 137
+    "name": "porygon",
+    "number": 137,
+    "alternateNames": []
   },
   {
-    "name": "Omanyte",
-    "number": 138
+    "name": "omanyte",
+    "number": 138,
+    "alternateNames": []
   },
   {
-    "name": "Omastar",
-    "number": 139
+    "name": "omastar",
+    "number": 139,
+    "alternateNames": []
   },
   {
-    "name": "Kabuto",
-    "number": 140
+    "name": "kabuto",
+    "number": 140,
+    "alternateNames": []
   },
   {
-    "name": "Kabutops",
-    "number": 141
+    "name": "kabutops",
+    "number": 141,
+    "alternateNames": []
   },
   {
-    "name": "Aerodactyl",
-    "number": 142
+    "name": "aerodactyl",
+    "number": 142,
+    "alternateNames": []
   },
   {
-    "name": "Snorlax",
-    "number": 143
+    "name": "snorlax",
+    "number": 143,
+    "alternateNames": []
   },
   {
-    "name": "Articuno",
-    "number": 144
+    "name": "articuno",
+    "number": 144,
+    "alternateNames": []
   },
   {
-    "name": "Zapdos",
-    "number": 145
+    "name": "zapdos",
+    "number": 145,
+    "alternateNames": []
   },
   {
-    "name": "Moltres",
-    "number": 146
+    "name": "moltres",
+    "number": 146,
+    "alternateNames": []
   },
   {
-    "name": "Dratini",
-    "number": 147
+    "name": "dratini",
+    "number": 147,
+    "alternateNames": []
   },
   {
-    "name": "Dragonair",
-    "number": 148
+    "name": "dragonair",
+    "number": 148,
+    "alternateNames": []
   },
   {
-    "name": "Dragonite",
-    "number": 149
+    "name": "dragonite",
+    "number": 149,
+    "alternateNames": []
   },
   {
-    "name": "Mewtwo",
-    "number": 150
+    "name": "mewtwo",
+    "number": 150,
+    "alternateNames": []
   },
   {
-    "name": "Mew",
-    "number": 151
+    "name": "mew",
+    "number": 151,
+    "alternateNames": []
   },
   {
-    "name": "Chikorita",
-    "number": 152
+    "name": "chikorita",
+    "number": 152,
+    "alternateNames": []
   },
   {
-    "name": "Bayleef",
-    "number": 153
+    "name": "bayleef",
+    "number": 153,
+    "alternateNames": []
   },
   {
-    "name": "Meganium",
-    "number": 154
+    "name": "meganium",
+    "number": 154,
+    "alternateNames": []
   },
   {
-    "name": "Cyndaquil",
-    "number": 155
+    "name": "cyndaquil",
+    "number": 155,
+    "alternateNames": []
   },
   {
-    "name": "Quilava",
-    "number": 156
+    "name": "quilava",
+    "number": 156,
+    "alternateNames": []
   },
   {
-    "name": "Typhlosion",
-    "number": 157
+    "name": "typhlosion",
+    "number": 157,
+    "alternateNames": []
   },
   {
-    "name": "Totodile",
-    "number": 158
+    "name": "totodile",
+    "number": 158,
+    "alternateNames": []
   },
   {
-    "name": "Croconaw",
-    "number": 159
+    "name": "croconaw",
+    "number": 159,
+    "alternateNames": []
   },
   {
-    "name": "Feraligatr",
-    "number": 160
+    "name": "feraligatr",
+    "number": 160,
+    "alternateNames": []
   },
   {
-    "name": "Sentret",
-    "number": 161
+    "name": "sentret",
+    "number": 161,
+    "alternateNames": []
   },
   {
-    "name": "Furret",
-    "number": 162
+    "name": "furret",
+    "number": 162,
+    "alternateNames": []
   },
   {
-    "name": "Hoothoot",
-    "number": 163
+    "name": "hoothoot",
+    "number": 163,
+    "alternateNames": []
   },
   {
-    "name": "Noctowl",
-    "number": 164
+    "name": "noctowl",
+    "number": 164,
+    "alternateNames": []
   },
   {
-    "name": "Ledyba",
-    "number": 165
+    "name": "ledyba",
+    "number": 165,
+    "alternateNames": []
   },
   {
-    "name": "Ledian",
-    "number": 166
+    "name": "ledian",
+    "number": 166,
+    "alternateNames": []
   },
   {
-    "name": "Spinarak",
-    "number": 167
+    "name": "spinarak",
+    "number": 167,
+    "alternateNames": []
   },
   {
-    "name": "Ariados",
-    "number": 168
+    "name": "ariados",
+    "number": 168,
+    "alternateNames": []
   },
   {
-    "name": "Crobat",
-    "number": 169
+    "name": "crobat",
+    "number": 169,
+    "alternateNames": []
   },
   {
-    "name": "Chinchou",
-    "number": 170
+    "name": "chinchou",
+    "number": 170,
+    "alternateNames": []
   },
   {
-    "name": "Lanturn",
-    "number": 171
+    "name": "lanturn",
+    "number": 171,
+    "alternateNames": []
   },
   {
-    "name": "Pichu",
-    "number": 172
+    "name": "pichu",
+    "number": 172,
+    "alternateNames": []
   },
   {
-    "name": "Cleffa",
-    "number": 173
+    "name": "cleffa",
+    "number": 173,
+    "alternateNames": []
   },
   {
-    "name": "Igglybuff",
-    "number": 174
+    "name": "igglybuff",
+    "number": 174,
+    "alternateNames": []
   },
   {
-    "name": "Togepi",
-    "number": 175
+    "name": "togepi",
+    "number": 175,
+    "alternateNames": []
   },
   {
-    "name": "Togetic",
-    "number": 176
+    "name": "togetic",
+    "number": 176,
+    "alternateNames": []
   },
   {
-    "name": "Natu",
-    "number": 177
+    "name": "natu",
+    "number": 177,
+    "alternateNames": []
   },
   {
-    "name": "Xatu",
-    "number": 178
+    "name": "xatu",
+    "number": 178,
+    "alternateNames": []
   },
   {
-    "name": "Mareep",
-    "number": 179
+    "name": "mareep",
+    "number": 179,
+    "alternateNames": []
   },
   {
-    "name": "Flaaffy",
-    "number": 180
+    "name": "flaaffy",
+    "number": 180,
+    "alternateNames": []
   },
   {
-    "name": "Ampharos",
-    "number": 181
+    "name": "ampharos",
+    "number": 181,
+    "alternateNames": []
   },
   {
-    "name": "Bellossom",
-    "number": 182
+    "name": "bellossom",
+    "number": 182,
+    "alternateNames": []
   },
   {
-    "name": "Marill",
-    "number": 183
+    "name": "marill",
+    "number": 183,
+    "alternateNames": []
   },
   {
-    "name": "Azumarill",
-    "number": 184
+    "name": "azumarill",
+    "number": 184,
+    "alternateNames": []
   },
   {
-    "name": "Sudowoodo",
-    "number": 185
+    "name": "sudowoodo",
+    "number": 185,
+    "alternateNames": []
   },
   {
-    "name": "Politoed",
-    "number": 186
+    "name": "politoed",
+    "number": 186,
+    "alternateNames": []
   },
   {
-    "name": "Hoppip",
-    "number": 187
+    "name": "hoppip",
+    "number": 187,
+    "alternateNames": []
   },
   {
-    "name": "Skiploom",
-    "number": 188
+    "name": "skiploom",
+    "number": 188,
+    "alternateNames": []
   },
   {
-    "name": "Jumpluff",
-    "number": 189
+    "name": "jumpluff",
+    "number": 189,
+    "alternateNames": []
   },
   {
-    "name": "Aipom",
-    "number": 190
+    "name": "aipom",
+    "number": 190,
+    "alternateNames": []
   },
   {
-    "name": "Sunkern",
-    "number": 191
+    "name": "sunkern",
+    "number": 191,
+    "alternateNames": []
   },
   {
-    "name": "Sunflora",
-    "number": 192
+    "name": "sunflora",
+    "number": 192,
+    "alternateNames": []
   },
   {
-    "name": "Yanma",
-    "number": 193
+    "name": "yanma",
+    "number": 193,
+    "alternateNames": []
   },
   {
-    "name": "Wooper",
-    "number": 194
+    "name": "wooper",
+    "number": 194,
+    "alternateNames": []
   },
   {
-    "name": "Quagsire",
-    "number": 195
+    "name": "quagsire",
+    "number": 195,
+    "alternateNames": []
   },
   {
-    "name": "Espeon",
-    "number": 196
+    "name": "espeon",
+    "number": 196,
+    "alternateNames": []
   },
   {
-    "name": "Umbreon",
-    "number": 197
+    "name": "umbreon",
+    "number": 197,
+    "alternateNames": []
   },
   {
-    "name": "Murkrow",
-    "number": 198
+    "name": "murkrow",
+    "number": 198,
+    "alternateNames": []
   },
   {
-    "name": "Slowking",
-    "number": 199
+    "name": "slowking",
+    "number": 199,
+    "alternateNames": []
   },
   {
-    "name": "Misdreavus",
-    "number": 200
+    "name": "misdreavus",
+    "number": 200,
+    "alternateNames": []
   },
   {
-    "name": "Unown",
-    "number": 201
+    "name": "unown",
+    "number": 201,
+    "alternateNames": []
   },
   {
-    "name": "Wobbuffet",
-    "number": 202
+    "name": "wobbuffet",
+    "number": 202,
+    "alternateNames": []
   },
   {
-    "name": "Girafarig",
-    "number": 203
+    "name": "girafarig",
+    "number": 203,
+    "alternateNames": []
   },
   {
-    "name": "Pineco",
-    "number": 204
+    "name": "pineco",
+    "number": 204,
+    "alternateNames": []
   },
   {
-    "name": "Forretress",
-    "number": 205
+    "name": "forretress",
+    "number": 205,
+    "alternateNames": []
   },
   {
-    "name": "Dunsparce",
-    "number": 206
+    "name": "dunsparce",
+    "number": 206,
+    "alternateNames": []
   },
   {
-    "name": "Gligar",
-    "number": 207
+    "name": "gligar",
+    "number": 207,
+    "alternateNames": []
   },
   {
-    "name": "Steelix",
-    "number": 208
+    "name": "steelix",
+    "number": 208,
+    "alternateNames": []
   },
   {
-    "name": "Snubbull",
-    "number": 209
+    "name": "snubbull",
+    "number": 209,
+    "alternateNames": []
   },
   {
-    "name": "Granbull",
-    "number": 210
+    "name": "granbull",
+    "number": 210,
+    "alternateNames": []
   },
   {
-    "name": "Qwilfish",
-    "number": 211
+    "name": "qwilfish",
+    "number": 211,
+    "alternateNames": []
   },
   {
-    "name": "Scizor",
-    "number": 212
+    "name": "scizor",
+    "number": 212,
+    "alternateNames": []
   },
   {
-    "name": "Shuckle",
-    "number": 213
+    "name": "shuckle",
+    "number": 213,
+    "alternateNames": []
   },
   {
-    "name": "Heracross",
-    "number": 214
+    "name": "heracross",
+    "number": 214,
+    "alternateNames": []
   },
   {
-    "name": "Sneasel",
-    "number": 215
+    "name": "sneasel",
+    "number": 215,
+    "alternateNames": []
   },
   {
-    "name": "Teddiursa",
-    "number": 216
+    "name": "teddiursa",
+    "number": 216,
+    "alternateNames": []
   },
   {
-    "name": "Ursaring",
-    "number": 217
+    "name": "ursaring",
+    "number": 217,
+    "alternateNames": []
   },
   {
-    "name": "Slugma",
-    "number": 218
+    "name": "slugma",
+    "number": 218,
+    "alternateNames": []
   },
   {
-    "name": "Magcargo",
-    "number": 219
+    "name": "magcargo",
+    "number": 219,
+    "alternateNames": []
   },
   {
-    "name": "Swinub",
-    "number": 220
+    "name": "swinub",
+    "number": 220,
+    "alternateNames": []
   },
   {
-    "name": "Piloswine",
-    "number": 221
+    "name": "piloswine",
+    "number": 221,
+    "alternateNames": []
   },
   {
-    "name": "Corsola",
-    "number": 222
+    "name": "corsola",
+    "number": 222,
+    "alternateNames": []
   },
   {
-    "name": "Remoraid",
-    "number": 223
+    "name": "remoraid",
+    "number": 223,
+    "alternateNames": []
   },
   {
-    "name": "Octillery",
-    "number": 224
+    "name": "octillery",
+    "number": 224,
+    "alternateNames": []
   },
   {
-    "name": "Delibird",
-    "number": 225
+    "name": "delibird",
+    "number": 225,
+    "alternateNames": []
   },
   {
-    "name": "Mantine",
-    "number": 226
+    "name": "mantine",
+    "number": 226,
+    "alternateNames": []
   },
   {
-    "name": "Skarmory",
-    "number": 227
+    "name": "skarmory",
+    "number": 227,
+    "alternateNames": []
   },
   {
-    "name": "Houndour",
-    "number": 228
+    "name": "houndour",
+    "number": 228,
+    "alternateNames": []
   },
   {
-    "name": "Houndoom",
-    "number": 229
+    "name": "houndoom",
+    "number": 229,
+    "alternateNames": []
   },
   {
-    "name": "Kingdra",
-    "number": 230
+    "name": "kingdra",
+    "number": 230,
+    "alternateNames": []
   },
   {
-    "name": "Phanpy",
-    "number": 231
+    "name": "phanpy",
+    "number": 231,
+    "alternateNames": []
   },
   {
-    "name": "Donphan",
-    "number": 232
+    "name": "donphan",
+    "number": 232,
+    "alternateNames": []
   },
   {
-    "name": "Porygon2",
-    "number": 233
+    "name": "porygon2",
+    "number": 233,
+    "alternateNames": []
   },
   {
-    "name": "Stantler",
-    "number": 234
+    "name": "stantler",
+    "number": 234,
+    "alternateNames": []
   },
   {
-    "name": "Smeargle",
-    "number": 235
+    "name": "smeargle",
+    "number": 235,
+    "alternateNames": []
   },
   {
-    "name": "Tyrogue",
-    "number": 236
+    "name": "tyrogue",
+    "number": 236,
+    "alternateNames": []
   },
   {
-    "name": "Hitmontop",
-    "number": 237
+    "name": "hitmontop",
+    "number": 237,
+    "alternateNames": []
   },
   {
-    "name": "Smoochum",
-    "number": 238
+    "name": "smoochum",
+    "number": 238,
+    "alternateNames": []
   },
   {
-    "name": "Elekid",
-    "number": 239
+    "name": "elekid",
+    "number": 239,
+    "alternateNames": []
   },
   {
-    "name": "Magby",
-    "number": 240
+    "name": "magby",
+    "number": 240,
+    "alternateNames": []
   },
   {
-    "name": "Miltank",
-    "number": 241
+    "name": "miltank",
+    "number": 241,
+    "alternateNames": []
   },
   {
-    "name": "Blissey",
-    "number": 242
+    "name": "blissey",
+    "number": 242,
+    "alternateNames": []
   },
   {
-    "name": "Raikou",
-    "number": 243
+    "name": "raikou",
+    "number": 243,
+    "alternateNames": []
   },
   {
-    "name": "Entei",
-    "number": 244
+    "name": "entei",
+    "number": 244,
+    "alternateNames": []
   },
   {
-    "name": "Suicune",
-    "number": 245
+    "name": "suicune",
+    "number": 245,
+    "alternateNames": []
   },
   {
-    "name": "Larvitar",
-    "number": 246
+    "name": "larvitar",
+    "number": 246,
+    "alternateNames": []
   },
   {
-    "name": "Pupitar",
-    "number": 247
+    "name": "pupitar",
+    "number": 247,
+    "alternateNames": []
   },
   {
-    "name": "Tyranitar",
-    "number": 248
+    "name": "tyranitar",
+    "number": 248,
+    "alternateNames": []
   },
   {
-    "name": "Lugia",
-    "number": 249
+    "name": "lugia",
+    "number": 249,
+    "alternateNames": []
   },
   {
-    "name": "Ho-oh",
-    "number": 250
+    "name": "ho-oh",
+    "number": 250,
+    "alternateNames": []
   },
   {
-    "name": "Celebi",
-    "number": 251
+    "name": "celebi",
+    "number": 251,
+    "alternateNames": []
   },
   {
-    "name": "Treecko",
-    "number": 252
+    "name": "treecko",
+    "number": 252,
+    "alternateNames": []
   },
   {
-    "name": "Grovyle",
-    "number": 253
+    "name": "grovyle",
+    "number": 253,
+    "alternateNames": []
   },
   {
-    "name": "Sceptile",
-    "number": 254
+    "name": "sceptile",
+    "number": 254,
+    "alternateNames": []
   },
   {
-    "name": "Torchic",
-    "number": 255
+    "name": "torchic",
+    "number": 255,
+    "alternateNames": []
   },
   {
-    "name": "Combusken",
-    "number": 256
+    "name": "combusken",
+    "number": 256,
+    "alternateNames": []
   },
   {
-    "name": "Blaziken",
-    "number": 257
+    "name": "blaziken",
+    "number": 257,
+    "alternateNames": []
   },
   {
-    "name": "Mudkip",
-    "number": 258
+    "name": "mudkip",
+    "number": 258,
+    "alternateNames": []
   },
   {
-    "name": "Marshtomp",
-    "number": 259
+    "name": "marshtomp",
+    "number": 259,
+    "alternateNames": []
   },
   {
-    "name": "Swampert",
-    "number": 260
+    "name": "swampert",
+    "number": 260,
+    "alternateNames": []
   },
   {
-    "name": "Poochyena",
-    "number": 261
+    "name": "poochyena",
+    "number": 261,
+    "alternateNames": []
   },
   {
-    "name": "Mightyena",
-    "number": 262
+    "name": "mightyena",
+    "number": 262,
+    "alternateNames": []
   },
   {
-    "name": "Zigzagoon",
-    "number": 263
+    "name": "zigzagoon",
+    "number": 263,
+    "alternateNames": []
   },
   {
-    "name": "Linoone",
-    "number": 264
+    "name": "linoone",
+    "number": 264,
+    "alternateNames": []
   },
   {
-    "name": "Wurmple",
-    "number": 265
+    "name": "wurmple",
+    "number": 265,
+    "alternateNames": []
   },
   {
-    "name": "Silcoon",
-    "number": 266
+    "name": "silcoon",
+    "number": 266,
+    "alternateNames": []
   },
   {
-    "name": "Beautifly",
-    "number": 267
+    "name": "beautifly",
+    "number": 267,
+    "alternateNames": []
   },
   {
-    "name": "Cascoon",
-    "number": 268
+    "name": "cascoon",
+    "number": 268,
+    "alternateNames": []
   },
   {
-    "name": "Dustox",
-    "number": 269
+    "name": "dustox",
+    "number": 269,
+    "alternateNames": []
   },
   {
-    "name": "Lotad",
-    "number": 270
+    "name": "lotad",
+    "number": 270,
+    "alternateNames": []
   },
   {
-    "name": "Lombre",
-    "number": 271
+    "name": "lombre",
+    "number": 271,
+    "alternateNames": []
   },
   {
-    "name": "Ludicolo",
-    "number": 272
+    "name": "ludicolo",
+    "number": 272,
+    "alternateNames": []
   },
   {
-    "name": "Seedot",
-    "number": 273
+    "name": "seedot",
+    "number": 273,
+    "alternateNames": []
   },
   {
-    "name": "Nuzleaf",
-    "number": 274
+    "name": "nuzleaf",
+    "number": 274,
+    "alternateNames": []
   },
   {
-    "name": "Shiftry",
-    "number": 275
+    "name": "shiftry",
+    "number": 275,
+    "alternateNames": []
   },
   {
-    "name": "Taillow",
-    "number": 276
+    "name": "taillow",
+    "number": 276,
+    "alternateNames": []
   },
   {
-    "name": "Swellow",
-    "number": 277
+    "name": "swellow",
+    "number": 277,
+    "alternateNames": []
   },
   {
-    "name": "Wingull",
-    "number": 278
+    "name": "wingull",
+    "number": 278,
+    "alternateNames": []
   },
   {
-    "name": "Pelipper",
-    "number": 279
+    "name": "pelipper",
+    "number": 279,
+    "alternateNames": []
   },
   {
-    "name": "Ralts",
-    "number": 280
+    "name": "ralts",
+    "number": 280,
+    "alternateNames": []
   },
   {
-    "name": "Kirlia",
-    "number": 281
+    "name": "kirlia",
+    "number": 281,
+    "alternateNames": []
   },
   {
-    "name": "Gardevoir",
-    "number": 282
+    "name": "gardevoir",
+    "number": 282,
+    "alternateNames": []
   },
   {
-    "name": "Surskit",
-    "number": 283
+    "name": "surskit",
+    "number": 283,
+    "alternateNames": []
   },
   {
-    "name": "Masquerain",
-    "number": 284
+    "name": "masquerain",
+    "number": 284,
+    "alternateNames": []
   },
   {
-    "name": "Shroomish",
-    "number": 285
+    "name": "shroomish",
+    "number": 285,
+    "alternateNames": []
   },
   {
-    "name": "Breloom",
-    "number": 286
+    "name": "breloom",
+    "number": 286,
+    "alternateNames": []
   },
   {
-    "name": "Slakoth",
-    "number": 287
+    "name": "slakoth",
+    "number": 287,
+    "alternateNames": []
   },
   {
-    "name": "Vigoroth",
-    "number": 288
+    "name": "vigoroth",
+    "number": 288,
+    "alternateNames": []
   },
   {
-    "name": "Slaking",
-    "number": 289
+    "name": "slaking",
+    "number": 289,
+    "alternateNames": []
   },
   {
-    "name": "Nincada",
-    "number": 290
+    "name": "nincada",
+    "number": 290,
+    "alternateNames": []
   },
   {
-    "name": "Ninjask",
-    "number": 291
+    "name": "ninjask",
+    "number": 291,
+    "alternateNames": []
   },
   {
-    "name": "Shedinja",
-    "number": 292
+    "name": "shedinja",
+    "number": 292,
+    "alternateNames": []
   },
   {
-    "name": "Whismur",
-    "number": 293
+    "name": "whismur",
+    "number": 293,
+    "alternateNames": []
   },
   {
-    "name": "Loudred",
-    "number": 294
+    "name": "loudred",
+    "number": 294,
+    "alternateNames": []
   },
   {
-    "name": "Exploud",
-    "number": 295
+    "name": "exploud",
+    "number": 295,
+    "alternateNames": []
   },
   {
-    "name": "Makuhita",
-    "number": 296
+    "name": "makuhita",
+    "number": 296,
+    "alternateNames": []
   },
   {
-    "name": "Hariyama",
-    "number": 297
+    "name": "hariyama",
+    "number": 297,
+    "alternateNames": []
   },
   {
-    "name": "Azurill",
-    "number": 298
+    "name": "azurill",
+    "number": 298,
+    "alternateNames": []
   },
   {
-    "name": "Nosepass",
-    "number": 299
+    "name": "nosepass",
+    "number": 299,
+    "alternateNames": []
   },
   {
-    "name": "Skitty",
-    "number": 300
+    "name": "skitty",
+    "number": 300,
+    "alternateNames": []
   },
   {
-    "name": "Delcatty",
-    "number": 301
+    "name": "delcatty",
+    "number": 301,
+    "alternateNames": []
   },
   {
-    "name": "Sableye",
-    "number": 302
+    "name": "sableye",
+    "number": 302,
+    "alternateNames": []
   },
   {
-    "name": "Mawile",
-    "number": 303
+    "name": "mawile",
+    "number": 303,
+    "alternateNames": []
   },
   {
-    "name": "Aron",
-    "number": 304
+    "name": "aron",
+    "number": 304,
+    "alternateNames": []
   },
   {
-    "name": "Lairon",
-    "number": 305
+    "name": "lairon",
+    "number": 305,
+    "alternateNames": []
   },
   {
-    "name": "Aggron",
-    "number": 306
+    "name": "aggron",
+    "number": 306,
+    "alternateNames": []
   },
   {
-    "name": "Meditite",
-    "number": 307
+    "name": "meditite",
+    "number": 307,
+    "alternateNames": []
   },
   {
-    "name": "Medicham",
-    "number": 308
+    "name": "medicham",
+    "number": 308,
+    "alternateNames": []
   },
   {
-    "name": "Electrike",
-    "number": 309
+    "name": "electrike",
+    "number": 309,
+    "alternateNames": []
   },
   {
-    "name": "Manectric",
-    "number": 310
+    "name": "manectric",
+    "number": 310,
+    "alternateNames": []
   },
   {
-    "name": "Plusle",
-    "number": 311
+    "name": "plusle",
+    "number": 311,
+    "alternateNames": []
   },
   {
-    "name": "Minun",
-    "number": 312
+    "name": "minun",
+    "number": 312,
+    "alternateNames": []
   },
   {
-    "name": "Volbeat",
-    "number": 313
+    "name": "volbeat",
+    "number": 313,
+    "alternateNames": []
   },
   {
-    "name": "Illumise",
-    "number": 314
+    "name": "illumise",
+    "number": 314,
+    "alternateNames": []
   },
   {
-    "name": "Roselia",
-    "number": 315
+    "name": "roselia",
+    "number": 315,
+    "alternateNames": []
   },
   {
-    "name": "Gulpin",
-    "number": 316
+    "name": "gulpin",
+    "number": 316,
+    "alternateNames": []
   },
   {
-    "name": "Swalot",
-    "number": 317
+    "name": "swalot",
+    "number": 317,
+    "alternateNames": []
   },
   {
-    "name": "Carvanha",
-    "number": 318
+    "name": "carvanha",
+    "number": 318,
+    "alternateNames": []
   },
   {
-    "name": "Sharpedo",
-    "number": 319
+    "name": "sharpedo",
+    "number": 319,
+    "alternateNames": []
   },
   {
-    "name": "Wailmer",
-    "number": 320
+    "name": "wailmer",
+    "number": 320,
+    "alternateNames": []
   },
   {
-    "name": "Wailord",
-    "number": 321
+    "name": "wailord",
+    "number": 321,
+    "alternateNames": []
   },
   {
-    "name": "Numel",
-    "number": 322
+    "name": "numel",
+    "number": 322,
+    "alternateNames": []
   },
   {
-    "name": "Camerupt",
-    "number": 323
+    "name": "camerupt",
+    "number": 323,
+    "alternateNames": []
   },
   {
-    "name": "Torkoal",
-    "number": 324
+    "name": "torkoal",
+    "number": 324,
+    "alternateNames": []
   },
   {
-    "name": "Spoink",
-    "number": 325
+    "name": "spoink",
+    "number": 325,
+    "alternateNames": []
   },
   {
-    "name": "Grumpig",
-    "number": 326
+    "name": "grumpig",
+    "number": 326,
+    "alternateNames": []
   },
   {
-    "name": "Spinda",
-    "number": 327
+    "name": "spinda",
+    "number": 327,
+    "alternateNames": []
   },
   {
-    "name": "Trapinch",
-    "number": 328
+    "name": "trapinch",
+    "number": 328,
+    "alternateNames": []
   },
   {
-    "name": "Vibrava",
-    "number": 329
+    "name": "vibrava",
+    "number": 329,
+    "alternateNames": []
   },
   {
-    "name": "Flygon",
-    "number": 330
+    "name": "flygon",
+    "number": 330,
+    "alternateNames": []
   },
   {
-    "name": "Cacnea",
-    "number": 331
+    "name": "cacnea",
+    "number": 331,
+    "alternateNames": []
   },
   {
-    "name": "Cacturne",
-    "number": 332
+    "name": "cacturne",
+    "number": 332,
+    "alternateNames": []
   },
   {
-    "name": "Swablu",
-    "number": 333
+    "name": "swablu",
+    "number": 333,
+    "alternateNames": []
   },
   {
-    "name": "Altaria",
-    "number": 334
+    "name": "altaria",
+    "number": 334,
+    "alternateNames": []
   },
   {
-    "name": "Zangoose",
-    "number": 335
+    "name": "zangoose",
+    "number": 335,
+    "alternateNames": []
   },
   {
-    "name": "Seviper",
-    "number": 336
+    "name": "seviper",
+    "number": 336,
+    "alternateNames": []
   },
   {
-    "name": "Lunatone",
-    "number": 337
+    "name": "lunatone",
+    "number": 337,
+    "alternateNames": []
   },
   {
-    "name": "Solrock",
-    "number": 338
+    "name": "solrock",
+    "number": 338,
+    "alternateNames": []
   },
   {
-    "name": "Barboach",
-    "number": 339
+    "name": "barboach",
+    "number": 339,
+    "alternateNames": []
   },
   {
-    "name": "Whiscash",
-    "number": 340
+    "name": "whiscash",
+    "number": 340,
+    "alternateNames": []
   },
   {
-    "name": "Corphish",
-    "number": 341
+    "name": "corphish",
+    "number": 341,
+    "alternateNames": []
   },
   {
-    "name": "Crawdaunt",
-    "number": 342
+    "name": "crawdaunt",
+    "number": 342,
+    "alternateNames": []
   },
   {
-    "name": "Baltoy",
-    "number": 343
+    "name": "baltoy",
+    "number": 343,
+    "alternateNames": []
   },
   {
-    "name": "Claydol",
-    "number": 344
+    "name": "claydol",
+    "number": 344,
+    "alternateNames": []
   },
   {
-    "name": "Lileep",
-    "number": 345
+    "name": "lileep",
+    "number": 345,
+    "alternateNames": []
   },
   {
-    "name": "Cradily",
-    "number": 346
+    "name": "cradily",
+    "number": 346,
+    "alternateNames": []
   },
   {
-    "name": "Anorith",
-    "number": 347
+    "name": "anorith",
+    "number": 347,
+    "alternateNames": []
   },
   {
-    "name": "Armaldo",
-    "number": 348
+    "name": "armaldo",
+    "number": 348,
+    "alternateNames": []
   },
   {
-    "name": "Feebas",
-    "number": 349
+    "name": "feebas",
+    "number": 349,
+    "alternateNames": []
   },
   {
-    "name": "Milotic",
-    "number": 350
+    "name": "milotic",
+    "number": 350,
+    "alternateNames": []
   },
   {
-    "name": "Castform",
-    "number": 351
+    "name": "castform",
+    "number": 351,
+    "alternateNames": []
   },
   {
-    "name": "Kecleon",
-    "number": 352
+    "name": "kecleon",
+    "number": 352,
+    "alternateNames": []
   },
   {
-    "name": "Shuppet",
-    "number": 353
+    "name": "shuppet",
+    "number": 353,
+    "alternateNames": []
   },
   {
-    "name": "Banette",
-    "number": 354
+    "name": "banette",
+    "number": 354,
+    "alternateNames": []
   },
   {
-    "name": "Duskull",
-    "number": 355
+    "name": "duskull",
+    "number": 355,
+    "alternateNames": []
   },
   {
-    "name": "Dusclops",
-    "number": 356
+    "name": "dusclops",
+    "number": 356,
+    "alternateNames": []
   },
   {
-    "name": "Tropius",
-    "number": 357
+    "name": "tropius",
+    "number": 357,
+    "alternateNames": []
   },
   {
-    "name": "Chimecho",
-    "number": 358
+    "name": "chimecho",
+    "number": 358,
+    "alternateNames": []
   },
   {
-    "name": "Absol",
-    "number": 359
+    "name": "absol",
+    "number": 359,
+    "alternateNames": []
   },
   {
-    "name": "Wynaut",
-    "number": 360
+    "name": "wynaut",
+    "number": 360,
+    "alternateNames": []
   },
   {
-    "name": "Snorunt",
-    "number": 361
+    "name": "snorunt",
+    "number": 361,
+    "alternateNames": []
   },
   {
-    "name": "Glalie",
-    "number": 362
+    "name": "glalie",
+    "number": 362,
+    "alternateNames": []
   },
   {
-    "name": "Spheal",
-    "number": 363
+    "name": "spheal",
+    "number": 363,
+    "alternateNames": []
   },
   {
-    "name": "Sealeo",
-    "number": 364
+    "name": "sealeo",
+    "number": 364,
+    "alternateNames": []
   },
   {
-    "name": "Walrein",
-    "number": 365
+    "name": "walrein",
+    "number": 365,
+    "alternateNames": []
   },
   {
-    "name": "Clamperl",
-    "number": 366
+    "name": "clamperl",
+    "number": 366,
+    "alternateNames": []
   },
   {
-    "name": "Huntail",
-    "number": 367
+    "name": "huntail",
+    "number": 367,
+    "alternateNames": []
   },
   {
-    "name": "Gorebyss",
-    "number": 368
+    "name": "gorebyss",
+    "number": 368,
+    "alternateNames": []
   },
   {
-    "name": "Relicanth",
-    "number": 369
+    "name": "relicanth",
+    "number": 369,
+    "alternateNames": []
   },
   {
-    "name": "Luvdisc",
-    "number": 370
+    "name": "luvdisc",
+    "number": 370,
+    "alternateNames": []
   },
   {
-    "name": "Bagon",
-    "number": 371
+    "name": "bagon",
+    "number": 371,
+    "alternateNames": []
   },
   {
-    "name": "Shelgon",
-    "number": 372
+    "name": "shelgon",
+    "number": 372,
+    "alternateNames": []
   },
   {
-    "name": "Salamence",
-    "number": 373
+    "name": "salamence",
+    "number": 373,
+    "alternateNames": []
   },
   {
-    "name": "Beldum",
-    "number": 374
+    "name": "beldum",
+    "number": 374,
+    "alternateNames": []
   },
   {
-    "name": "Metang",
-    "number": 375
+    "name": "metang",
+    "number": 375,
+    "alternateNames": []
   },
   {
-    "name": "Metagross",
-    "number": 376
+    "name": "metagross",
+    "number": 376,
+    "alternateNames": []
   },
   {
-    "name": "Regirock",
-    "number": 377
+    "name": "regirock",
+    "number": 377,
+    "alternateNames": []
   },
   {
-    "name": "Regice",
-    "number": 378
+    "name": "regice",
+    "number": 378,
+    "alternateNames": []
   },
   {
-    "name": "Registeel",
-    "number": 379
+    "name": "registeel",
+    "number": 379,
+    "alternateNames": []
   },
   {
-    "name": "Latias",
-    "number": 380
+    "name": "latias",
+    "number": 380,
+    "alternateNames": []
   },
   {
-    "name": "Latios",
-    "number": 381
+    "name": "latios",
+    "number": 381,
+    "alternateNames": []
   },
   {
-    "name": "Kyogre",
-    "number": 382
+    "name": "kyogre",
+    "number": 382,
+    "alternateNames": []
   },
   {
-    "name": "Groudon",
-    "number": 383
+    "name": "groudon",
+    "number": 383,
+    "alternateNames": []
   },
   {
-    "name": "Rayquaza",
-    "number": 384
+    "name": "rayquaza",
+    "number": 384,
+    "alternateNames": []
   },
   {
-    "name": "Jirachi",
-    "number": 385
+    "name": "jirachi",
+    "number": 385,
+    "alternateNames": []
   },
   {
-    "name": "Deoxys",
-    "number": 386
+    "name": "deoxys",
+    "number": 386,
+    "alternateNames": []
   },
   {
-    "name": "Turtwig",
-    "number": 387
+    "name": "turtwig",
+    "number": 387,
+    "alternateNames": []
   },
   {
-    "name": "Grotle",
-    "number": 388
+    "name": "grotle",
+    "number": 388,
+    "alternateNames": []
   },
   {
-    "name": "Torterra",
-    "number": 389
+    "name": "torterra",
+    "number": 389,
+    "alternateNames": []
   },
   {
-    "name": "Chimchar",
-    "number": 390
+    "name": "chimchar",
+    "number": 390,
+    "alternateNames": []
   },
   {
-    "name": "Monferno",
-    "number": 391
+    "name": "monferno",
+    "number": 391,
+    "alternateNames": []
   },
   {
-    "name": "Infernape",
-    "number": 392
+    "name": "infernape",
+    "number": 392,
+    "alternateNames": []
   },
   {
-    "name": "Piplup",
-    "number": 393
+    "name": "piplup",
+    "number": 393,
+    "alternateNames": []
   },
   {
-    "name": "Prinplup",
-    "number": 394
+    "name": "prinplup",
+    "number": 394,
+    "alternateNames": []
   },
   {
-    "name": "Empoleon",
-    "number": 395
+    "name": "empoleon",
+    "number": 395,
+    "alternateNames": []
   },
   {
-    "name": "Starly",
-    "number": 396
+    "name": "starly",
+    "number": 396,
+    "alternateNames": []
   },
   {
-    "name": "Staravia",
-    "number": 397
+    "name": "staravia",
+    "number": 397,
+    "alternateNames": []
   },
   {
-    "name": "Staraptor",
-    "number": 398
+    "name": "staraptor",
+    "number": 398,
+    "alternateNames": []
   },
   {
-    "name": "Bidoof",
-    "number": 399
+    "name": "bidoof",
+    "number": 399,
+    "alternateNames": []
   },
   {
-    "name": "Bibarel",
-    "number": 400
+    "name": "bibarel",
+    "number": 400,
+    "alternateNames": []
   },
   {
-    "name": "Kricketot",
-    "number": 401
+    "name": "kricketot",
+    "number": 401,
+    "alternateNames": []
   },
   {
-    "name": "Kricketune",
-    "number": 402
+    "name": "kricketune",
+    "number": 402,
+    "alternateNames": []
   },
   {
-    "name": "Shinx",
-    "number": 403
+    "name": "shinx",
+    "number": 403,
+    "alternateNames": []
   },
   {
-    "name": "Luxio",
-    "number": 404
+    "name": "luxio",
+    "number": 404,
+    "alternateNames": []
   },
   {
-    "name": "Luxray",
-    "number": 405
+    "name": "luxray",
+    "number": 405,
+    "alternateNames": []
   },
   {
-    "name": "Budew",
-    "number": 406
+    "name": "budew",
+    "number": 406,
+    "alternateNames": []
   },
   {
-    "name": "Roserade",
-    "number": 407
+    "name": "roserade",
+    "number": 407,
+    "alternateNames": []
   },
   {
-    "name": "Cranidos",
-    "number": 408
+    "name": "cranidos",
+    "number": 408,
+    "alternateNames": []
   },
   {
-    "name": "Rampardos",
-    "number": 409
+    "name": "rampardos",
+    "number": 409,
+    "alternateNames": []
   },
   {
-    "name": "Shieldon",
-    "number": 410
+    "name": "shieldon",
+    "number": 410,
+    "alternateNames": []
   },
   {
-    "name": "Bastiodon",
-    "number": 411
+    "name": "bastiodon",
+    "number": 411,
+    "alternateNames": []
   },
   {
-    "name": "Burmy",
-    "number": 412
+    "name": "burmy",
+    "number": 412,
+    "alternateNames": []
   },
   {
-    "name": "Wormadam",
-    "number": 413
+    "name": "wormadam",
+    "number": 413,
+    "alternateNames": []
   },
   {
-    "name": "Mothim",
-    "number": 414
+    "name": "mothim",
+    "number": 414,
+    "alternateNames": []
   },
   {
-    "name": "Combee",
-    "number": 415
+    "name": "combee",
+    "number": 415,
+    "alternateNames": []
   },
   {
-    "name": "Vespiquen",
-    "number": 416
+    "name": "vespiquen",
+    "number": 416,
+    "alternateNames": []
   },
   {
-    "name": "Pachirisu",
-    "number": 417
+    "name": "pachirisu",
+    "number": 417,
+    "alternateNames": []
   },
   {
-    "name": "Buizel",
-    "number": 418
+    "name": "buizel",
+    "number": 418,
+    "alternateNames": []
   },
   {
-    "name": "Floatzel",
-    "number": 419
+    "name": "floatzel",
+    "number": 419,
+    "alternateNames": []
   },
   {
-    "name": "Cherubi",
-    "number": 420
+    "name": "cherubi",
+    "number": 420,
+    "alternateNames": []
   },
   {
-    "name": "Cherrim",
-    "number": 421
+    "name": "cherrim",
+    "number": 421,
+    "alternateNames": []
   },
   {
-    "name": "Shellos",
-    "number": 422
+    "name": "shellos",
+    "number": 422,
+    "alternateNames": []
   },
   {
-    "name": "Gastrodon",
-    "number": 423
+    "name": "gastrodon",
+    "number": 423,
+    "alternateNames": []
   },
   {
-    "name": "Ambipom",
-    "number": 424
+    "name": "ambipom",
+    "number": 424,
+    "alternateNames": []
   },
   {
-    "name": "Drifloon",
-    "number": 425
+    "name": "drifloon",
+    "number": 425,
+    "alternateNames": []
   },
   {
-    "name": "Drifblim",
-    "number": 426
+    "name": "drifblim",
+    "number": 426,
+    "alternateNames": []
   },
   {
-    "name": "Buneary",
-    "number": 427
+    "name": "buneary",
+    "number": 427,
+    "alternateNames": []
   },
   {
-    "name": "Lopunny",
-    "number": 428
+    "name": "lopunny",
+    "number": 428,
+    "alternateNames": []
   },
   {
-    "name": "Mismagius",
-    "number": 429
+    "name": "mismagius",
+    "number": 429,
+    "alternateNames": []
   },
   {
-    "name": "Honchkrow",
-    "number": 430
+    "name": "honchkrow",
+    "number": 430,
+    "alternateNames": []
   },
   {
-    "name": "Glameow",
-    "number": 431
+    "name": "glameow",
+    "number": 431,
+    "alternateNames": []
   },
   {
-    "name": "Purugly",
-    "number": 432
+    "name": "purugly",
+    "number": 432,
+    "alternateNames": []
   },
   {
-    "name": "Chingling",
-    "number": 433
+    "name": "chingling",
+    "number": 433,
+    "alternateNames": []
   },
   {
-    "name": "Stunky",
-    "number": 434
+    "name": "stunky",
+    "number": 434,
+    "alternateNames": []
   },
   {
-    "name": "Skuntank",
-    "number": 435
+    "name": "skuntank",
+    "number": 435,
+    "alternateNames": []
   },
   {
-    "name": "Bronzor",
-    "number": 436
+    "name": "bronzor",
+    "number": 436,
+    "alternateNames": []
   },
   {
-    "name": "Bronzong",
-    "number": 437
+    "name": "bronzong",
+    "number": 437,
+    "alternateNames": []
   },
   {
-    "name": "Bonsly",
-    "number": 438
+    "name": "bonsly",
+    "number": 438,
+    "alternateNames": []
   },
   {
-    "name": "Mime Jr.",
-    "number": 439
+    "name": "mime-jr",
+    "number": 439,
+    "alternateNames": []
   },
   {
-    "name": "Happiny",
-    "number": 440
+    "name": "happiny",
+    "number": 440,
+    "alternateNames": []
   },
   {
-    "name": "Chatot",
-    "number": 441
+    "name": "chatot",
+    "number": 441,
+    "alternateNames": []
   },
   {
-    "name": "Spiritomb",
-    "number": 442
+    "name": "spiritomb",
+    "number": 442,
+    "alternateNames": []
   },
   {
-    "name": "Gible",
-    "number": 443
+    "name": "gible",
+    "number": 443,
+    "alternateNames": []
   },
   {
-    "name": "Gabite",
-    "number": 444
+    "name": "gabite",
+    "number": 444,
+    "alternateNames": []
   },
   {
-    "name": "Garchomp",
-    "number": 445
+    "name": "garchomp",
+    "number": 445,
+    "alternateNames": []
   },
   {
-    "name": "Munchlax",
-    "number": 446
+    "name": "munchlax",
+    "number": 446,
+    "alternateNames": []
   },
   {
-    "name": "Riolu",
-    "number": 447
+    "name": "riolu",
+    "number": 447,
+    "alternateNames": []
   },
   {
-    "name": "Lucario",
-    "number": 448
+    "name": "lucario",
+    "number": 448,
+    "alternateNames": []
   },
   {
-    "name": "Hippopotas",
-    "number": 449
+    "name": "hippopotas",
+    "number": 449,
+    "alternateNames": []
   },
   {
-    "name": "Hippowdon",
-    "number": 450
+    "name": "hippowdon",
+    "number": 450,
+    "alternateNames": []
   },
   {
-    "name": "Skorupi",
-    "number": 451
+    "name": "skorupi",
+    "number": 451,
+    "alternateNames": []
   },
   {
-    "name": "Drapion",
-    "number": 452
+    "name": "drapion",
+    "number": 452,
+    "alternateNames": []
   },
   {
-    "name": "Croagunk",
-    "number": 453
+    "name": "croagunk",
+    "number": 453,
+    "alternateNames": []
   },
   {
-    "name": "Toxicroak",
-    "number": 454
+    "name": "toxicroak",
+    "number": 454,
+    "alternateNames": []
   },
   {
-    "name": "Carnivine",
-    "number": 455
+    "name": "carnivine",
+    "number": 455,
+    "alternateNames": []
   },
   {
-    "name": "Finneon",
-    "number": 456
+    "name": "finneon",
+    "number": 456,
+    "alternateNames": []
   },
   {
-    "name": "Lumineon",
-    "number": 457
+    "name": "lumineon",
+    "number": 457,
+    "alternateNames": []
   },
   {
-    "name": "Mantyke",
-    "number": 458
+    "name": "mantyke",
+    "number": 458,
+    "alternateNames": []
   },
   {
-    "name": "Snover",
-    "number": 459
+    "name": "snover",
+    "number": 459,
+    "alternateNames": []
   },
   {
-    "name": "Abomasnow",
-    "number": 460
+    "name": "abomasnow",
+    "number": 460,
+    "alternateNames": []
   },
   {
-    "name": "Weavile",
-    "number": 461
+    "name": "weavile",
+    "number": 461,
+    "alternateNames": []
   },
   {
-    "name": "Magnezone",
-    "number": 462
+    "name": "magnezone",
+    "number": 462,
+    "alternateNames": []
   },
   {
-    "name": "Lickilicky",
-    "number": 463
+    "name": "lickilicky",
+    "number": 463,
+    "alternateNames": []
   },
   {
-    "name": "Rhyperior",
-    "number": 464
+    "name": "rhyperior",
+    "number": 464,
+    "alternateNames": []
   },
   {
-    "name": "Tangrowth",
-    "number": 465
+    "name": "tangrowth",
+    "number": 465,
+    "alternateNames": []
   },
   {
-    "name": "Electivire",
-    "number": 466
+    "name": "electivire",
+    "number": 466,
+    "alternateNames": []
   },
   {
-    "name": "Magmortar",
-    "number": 467
+    "name": "magmortar",
+    "number": 467,
+    "alternateNames": []
   },
   {
-    "name": "Togekiss",
-    "number": 468
+    "name": "togekiss",
+    "number": 468,
+    "alternateNames": []
   },
   {
-    "name": "Yanmega",
-    "number": 469
+    "name": "yanmega",
+    "number": 469,
+    "alternateNames": []
   },
   {
-    "name": "Leafeon",
-    "number": 470
+    "name": "leafeon",
+    "number": 470,
+    "alternateNames": []
   },
   {
-    "name": "Glaceon",
-    "number": 471
+    "name": "glaceon",
+    "number": 471,
+    "alternateNames": []
   },
   {
-    "name": "Gliscor",
-    "number": 472
+    "name": "gliscor",
+    "number": 472,
+    "alternateNames": []
   },
   {
-    "name": "Mamoswine",
-    "number": 473
+    "name": "mamoswine",
+    "number": 473,
+    "alternateNames": []
   },
   {
-    "name": "Porygon-Z",
-    "number": 474
+    "name": "porygon-z",
+    "number": 474,
+    "alternateNames": []
   },
   {
-    "name": "Gallade",
-    "number": 475
+    "name": "gallade",
+    "number": 475,
+    "alternateNames": []
   },
   {
-    "name": "Probopass",
-    "number": 476
+    "name": "probopass",
+    "number": 476,
+    "alternateNames": []
   },
   {
-    "name": "Dusknoir",
-    "number": 477
+    "name": "dusknoir",
+    "number": 477,
+    "alternateNames": []
   },
   {
-    "name": "Froslass",
-    "number": 478
+    "name": "froslass",
+    "number": 478,
+    "alternateNames": []
   },
   {
-    "name": "Rotom",
-    "number": 479
+    "name": "rotom",
+    "number": 479,
+    "alternateNames": []
   },
   {
-    "name": "Uxie",
-    "number": 480
+    "name": "uxie",
+    "number": 480,
+    "alternateNames": []
   },
   {
-    "name": "Mesprit",
-    "number": 481
+    "name": "mesprit",
+    "number": 481,
+    "alternateNames": []
   },
   {
-    "name": "Azelf",
-    "number": 482
+    "name": "azelf",
+    "number": 482,
+    "alternateNames": []
   },
   {
-    "name": "Dialga",
-    "number": 483
+    "name": "dialga",
+    "number": 483,
+    "alternateNames": []
   },
   {
-    "name": "Palkia",
-    "number": 484
+    "name": "palkia",
+    "number": 484,
+    "alternateNames": []
   },
   {
-    "name": "Heatran",
-    "number": 485
+    "name": "heatran",
+    "number": 485,
+    "alternateNames": []
   },
   {
-    "name": "Regigigas",
-    "number": 486
+    "name": "regigigas",
+    "number": 486,
+    "alternateNames": []
   },
   {
-    "name": "Giratina",
-    "number": 487
+    "name": "giratina",
+    "number": 487,
+    "alternateNames": []
   },
   {
-    "name": "Cresselia",
-    "number": 488
+    "name": "cresselia",
+    "number": 488,
+    "alternateNames": []
   },
   {
-    "name": "Phione",
-    "number": 489
+    "name": "phione",
+    "number": 489,
+    "alternateNames": []
   },
   {
-    "name": "Manaphy",
-    "number": 490
+    "name": "manaphy",
+    "number": 490,
+    "alternateNames": []
   },
   {
-    "name": "Darkrai",
-    "number": 491
+    "name": "darkrai",
+    "number": 491,
+    "alternateNames": []
   },
   {
-    "name": "Shaymin",
-    "number": 492
+    "name": "shaymin",
+    "number": 492,
+    "alternateNames": []
   },
   {
-    "name": "Arceus",
-    "number": 493
+    "name": "arceus",
+    "number": 493,
+    "alternateNames": []
   },
   {
-    "name": "Victini",
-    "number": 494
+    "name": "victini",
+    "number": 494,
+    "alternateNames": []
   },
   {
-    "name": "Snivy",
-    "number": 495
+    "name": "snivy",
+    "number": 495,
+    "alternateNames": []
   },
   {
-    "name": "Servine",
-    "number": 496
+    "name": "servine",
+    "number": 496,
+    "alternateNames": []
   },
   {
-    "name": "Serperior",
-    "number": 497
+    "name": "serperior",
+    "number": 497,
+    "alternateNames": []
   },
   {
-    "name": "Tepig",
-    "number": 498
+    "name": "tepig",
+    "number": 498,
+    "alternateNames": []
   },
   {
-    "name": "Pignite",
-    "number": 499
+    "name": "pignite",
+    "number": 499,
+    "alternateNames": []
   },
   {
-    "name": "Emboar",
-    "number": 500
+    "name": "emboar",
+    "number": 500,
+    "alternateNames": []
   },
   {
-    "name": "Oshawott",
-    "number": 501
+    "name": "oshawott",
+    "number": 501,
+    "alternateNames": []
   },
   {
-    "name": "Dewott",
-    "number": 502
+    "name": "dewott",
+    "number": 502,
+    "alternateNames": []
   },
   {
-    "name": "Samurott",
-    "number": 503
+    "name": "samurott",
+    "number": 503,
+    "alternateNames": []
   },
   {
-    "name": "Patrat",
-    "number": 504
+    "name": "patrat",
+    "number": 504,
+    "alternateNames": []
   },
   {
-    "name": "Watchog",
-    "number": 505
+    "name": "watchog",
+    "number": 505,
+    "alternateNames": []
   },
   {
-    "name": "Lillipup",
-    "number": 506
+    "name": "lillipup",
+    "number": 506,
+    "alternateNames": []
   },
   {
-    "name": "Herdier",
-    "number": 507
+    "name": "herdier",
+    "number": 507,
+    "alternateNames": []
   },
   {
-    "name": "Stoutland",
-    "number": 508
+    "name": "stoutland",
+    "number": 508,
+    "alternateNames": []
   },
   {
-    "name": "Purrloin",
-    "number": 509
+    "name": "purrloin",
+    "number": 509,
+    "alternateNames": []
   },
   {
-    "name": "Liepard",
-    "number": 510
+    "name": "liepard",
+    "number": 510,
+    "alternateNames": []
   },
   {
-    "name": "Pansage",
-    "number": 511
+    "name": "pansage",
+    "number": 511,
+    "alternateNames": []
   },
   {
-    "name": "Simisage",
-    "number": 512
+    "name": "simisage",
+    "number": 512,
+    "alternateNames": []
   },
   {
-    "name": "Pansear",
-    "number": 513
+    "name": "pansear",
+    "number": 513,
+    "alternateNames": []
   },
   {
-    "name": "Simisear",
-    "number": 514
+    "name": "simisear",
+    "number": 514,
+    "alternateNames": []
   },
   {
-    "name": "Panpour",
-    "number": 515
+    "name": "panpour",
+    "number": 515,
+    "alternateNames": []
   },
   {
-    "name": "Simipour",
-    "number": 516
+    "name": "simipour",
+    "number": 516,
+    "alternateNames": []
   },
   {
-    "name": "Munna",
-    "number": 517
+    "name": "munna",
+    "number": 517,
+    "alternateNames": []
   },
   {
-    "name": "Musharna",
-    "number": 518
+    "name": "musharna",
+    "number": 518,
+    "alternateNames": []
   },
   {
-    "name": "Pidove",
-    "number": 519
+    "name": "pidove",
+    "number": 519,
+    "alternateNames": []
   },
   {
-    "name": "Tranquill",
-    "number": 520
+    "name": "tranquill",
+    "number": 520,
+    "alternateNames": []
   },
   {
-    "name": "Unfezant",
-    "number": 521
+    "name": "unfezant",
+    "number": 521,
+    "alternateNames": []
   },
   {
-    "name": "Blitzle",
-    "number": 522
+    "name": "blitzle",
+    "number": 522,
+    "alternateNames": []
   },
   {
-    "name": "Zebstrika",
-    "number": 523
+    "name": "zebstrika",
+    "number": 523,
+    "alternateNames": []
   },
   {
-    "name": "Roggenrola",
-    "number": 524
+    "name": "roggenrola",
+    "number": 524,
+    "alternateNames": []
   },
   {
-    "name": "Boldore",
-    "number": 525
+    "name": "boldore",
+    "number": 525,
+    "alternateNames": []
   },
   {
-    "name": "Gigalith",
-    "number": 526
+    "name": "gigalith",
+    "number": 526,
+    "alternateNames": []
   },
   {
-    "name": "Woobat",
-    "number": 527
+    "name": "woobat",
+    "number": 527,
+    "alternateNames": []
   },
   {
-    "name": "Swoobat",
-    "number": 528
+    "name": "swoobat",
+    "number": 528,
+    "alternateNames": []
   },
   {
-    "name": "Drilbur",
-    "number": 529
+    "name": "drilbur",
+    "number": 529,
+    "alternateNames": []
   },
   {
-    "name": "Excadrill",
-    "number": 530
+    "name": "excadrill",
+    "number": 530,
+    "alternateNames": []
   },
   {
-    "name": "Audino",
-    "number": 531
+    "name": "audino",
+    "number": 531,
+    "alternateNames": []
   },
   {
-    "name": "Timburr",
-    "number": 532
+    "name": "timburr",
+    "number": 532,
+    "alternateNames": []
   },
   {
-    "name": "Gurdurr",
-    "number": 533
+    "name": "gurdurr",
+    "number": 533,
+    "alternateNames": []
   },
   {
-    "name": "Conkeldurr",
-    "number": 534
+    "name": "conkeldurr",
+    "number": 534,
+    "alternateNames": []
   },
   {
-    "name": "Tympole",
-    "number": 535
+    "name": "tympole",
+    "number": 535,
+    "alternateNames": []
   },
   {
-    "name": "Palpitoad",
-    "number": 536
+    "name": "palpitoad",
+    "number": 536,
+    "alternateNames": []
   },
   {
-    "name": "Seismitoad",
-    "number": 537
+    "name": "seismitoad",
+    "number": 537,
+    "alternateNames": []
   },
   {
-    "name": "Throh",
-    "number": 538
+    "name": "throh",
+    "number": 538,
+    "alternateNames": []
   },
   {
-    "name": "Sawk",
-    "number": 539
+    "name": "sawk",
+    "number": 539,
+    "alternateNames": []
   },
   {
-    "name": "Sewaddle",
-    "number": 540
+    "name": "sewaddle",
+    "number": 540,
+    "alternateNames": []
   },
   {
-    "name": "Swadloon",
-    "number": 541
+    "name": "swadloon",
+    "number": 541,
+    "alternateNames": []
   },
   {
-    "name": "Leavanny",
-    "number": 542
+    "name": "leavanny",
+    "number": 542,
+    "alternateNames": []
   },
   {
-    "name": "Venipede",
-    "number": 543
+    "name": "venipede",
+    "number": 543,
+    "alternateNames": []
   },
   {
-    "name": "Whirlipede",
-    "number": 544
+    "name": "whirlipede",
+    "number": 544,
+    "alternateNames": []
   },
   {
-    "name": "Scolipede",
-    "number": 545
+    "name": "scolipede",
+    "number": 545,
+    "alternateNames": []
   },
   {
-    "name": "Cottonee",
-    "number": 546
+    "name": "cottonee",
+    "number": 546,
+    "alternateNames": []
   },
   {
-    "name": "Whimsicott",
-    "number": 547
+    "name": "whimsicott",
+    "number": 547,
+    "alternateNames": []
   },
   {
-    "name": "Petilil",
-    "number": 548
+    "name": "petilil",
+    "number": 548,
+    "alternateNames": []
   },
   {
-    "name": "Lilligant",
-    "number": 549
+    "name": "lilligant",
+    "number": 549,
+    "alternateNames": []
   },
   {
-    "name": "Basculin",
-    "number": 550
+    "name": "basculin",
+    "number": 550,
+    "alternateNames": []
   },
   {
-    "name": "Sandile",
-    "number": 551
+    "name": "sandile",
+    "number": 551,
+    "alternateNames": []
   },
   {
-    "name": "Krokorok",
-    "number": 552
+    "name": "krokorok",
+    "number": 552,
+    "alternateNames": []
   },
   {
-    "name": "Krookodile",
-    "number": 553
+    "name": "krookodile",
+    "number": 553,
+    "alternateNames": []
   },
   {
-    "name": "Darumaka",
-    "number": 554
+    "name": "darumaka",
+    "number": 554,
+    "alternateNames": []
   },
   {
-    "name": "Darmanitan",
-    "number": 555
+    "name": "darmanitan",
+    "number": 555,
+    "alternateNames": []
   },
   {
-    "name": "Maractus",
-    "number": 556
+    "name": "maractus",
+    "number": 556,
+    "alternateNames": []
   },
   {
-    "name": "Dwebble",
-    "number": 557
+    "name": "dwebble",
+    "number": 557,
+    "alternateNames": []
   },
   {
-    "name": "Crustle",
-    "number": 558
+    "name": "crustle",
+    "number": 558,
+    "alternateNames": []
   },
   {
-    "name": "Scraggy",
-    "number": 559
+    "name": "scraggy",
+    "number": 559,
+    "alternateNames": []
   },
   {
-    "name": "Scrafty",
-    "number": 560
+    "name": "scrafty",
+    "number": 560,
+    "alternateNames": []
   },
   {
-    "name": "Sigilyph",
-    "number": 561
+    "name": "sigilyph",
+    "number": 561,
+    "alternateNames": []
   },
   {
-    "name": "Yamask",
-    "number": 562
+    "name": "yamask",
+    "number": 562,
+    "alternateNames": []
   },
   {
-    "name": "Cofagrigus",
-    "number": 563
+    "name": "cofagrigus",
+    "number": 563,
+    "alternateNames": []
   },
   {
-    "name": "Tirtouga",
-    "number": 564
+    "name": "tirtouga",
+    "number": 564,
+    "alternateNames": []
   },
   {
-    "name": "Carracosta",
-    "number": 565
+    "name": "carracosta",
+    "number": 565,
+    "alternateNames": []
   },
   {
-    "name": "Archen",
-    "number": 566
+    "name": "archen",
+    "number": 566,
+    "alternateNames": []
   },
   {
-    "name": "Archeops",
-    "number": 567
+    "name": "archeops",
+    "number": 567,
+    "alternateNames": []
   },
   {
-    "name": "Trubbish",
-    "number": 568
+    "name": "trubbish",
+    "number": 568,
+    "alternateNames": []
   },
   {
-    "name": "Garbodor",
-    "number": 569
+    "name": "garbodor",
+    "number": 569,
+    "alternateNames": []
   },
   {
-    "name": "Zorua",
-    "number": 570
+    "name": "zorua",
+    "number": 570,
+    "alternateNames": []
   },
   {
-    "name": "Zoroark",
-    "number": 571
+    "name": "zoroark",
+    "number": 571,
+    "alternateNames": []
   },
   {
-    "name": "Minccino",
-    "number": 572
+    "name": "minccino",
+    "number": 572,
+    "alternateNames": []
   },
   {
-    "name": "Cinccino",
-    "number": 573
+    "name": "cinccino",
+    "number": 573,
+    "alternateNames": []
   },
   {
-    "name": "Gothita",
-    "number": 574
+    "name": "gothita",
+    "number": 574,
+    "alternateNames": []
   },
   {
-    "name": "Gothorita",
-    "number": 575
+    "name": "gothorita",
+    "number": 575,
+    "alternateNames": []
   },
   {
-    "name": "Gothitelle",
-    "number": 576
+    "name": "gothitelle",
+    "number": 576,
+    "alternateNames": []
   },
   {
-    "name": "Solosis",
-    "number": 577
+    "name": "solosis",
+    "number": 577,
+    "alternateNames": []
   },
   {
-    "name": "Duosion",
-    "number": 578
+    "name": "duosion",
+    "number": 578,
+    "alternateNames": []
   },
   {
-    "name": "Reuniclus",
-    "number": 579
+    "name": "reuniclus",
+    "number": 579,
+    "alternateNames": []
   },
   {
-    "name": "Ducklett",
-    "number": 580
+    "name": "ducklett",
+    "number": 580,
+    "alternateNames": []
   },
   {
-    "name": "Swanna",
-    "number": 581
+    "name": "swanna",
+    "number": 581,
+    "alternateNames": []
   },
   {
-    "name": "Vanillite",
-    "number": 582
+    "name": "vanillite",
+    "number": 582,
+    "alternateNames": []
   },
   {
-    "name": "Vanillish",
-    "number": 583
+    "name": "vanillish",
+    "number": 583,
+    "alternateNames": []
   },
   {
-    "name": "Vanilluxe",
-    "number": 584
+    "name": "vanilluxe",
+    "number": 584,
+    "alternateNames": []
   },
   {
-    "name": "Deerling",
-    "number": 585
+    "name": "deerling",
+    "number": 585,
+    "alternateNames": []
   },
   {
-    "name": "Sawsbuck",
-    "number": 586
+    "name": "sawsbuck",
+    "number": 586,
+    "alternateNames": []
   },
   {
-    "name": "Emolga",
-    "number": 587
+    "name": "emolga",
+    "number": 587,
+    "alternateNames": []
   },
   {
-    "name": "Karrablast",
-    "number": 588
+    "name": "karrablast",
+    "number": 588,
+    "alternateNames": []
   },
   {
-    "name": "Escavalier",
-    "number": 589
+    "name": "escavalier",
+    "number": 589,
+    "alternateNames": []
   },
   {
-    "name": "Foongus",
-    "number": 590
+    "name": "foongus",
+    "number": 590,
+    "alternateNames": []
   },
   {
-    "name": "Amoonguss",
-    "number": 591
+    "name": "amoonguss",
+    "number": 591,
+    "alternateNames": []
   },
   {
-    "name": "Frillish",
-    "number": 592
+    "name": "frillish",
+    "number": 592,
+    "alternateNames": []
   },
   {
-    "name": "Jellicent",
-    "number": 593
+    "name": "jellicent",
+    "number": 593,
+    "alternateNames": []
   },
   {
-    "name": "Alomomola",
-    "number": 594
+    "name": "alomomola",
+    "number": 594,
+    "alternateNames": []
   },
   {
-    "name": "Joltik",
-    "number": 595
+    "name": "joltik",
+    "number": 595,
+    "alternateNames": []
   },
   {
-    "name": "Galvantula",
-    "number": 596
+    "name": "galvantula",
+    "number": 596,
+    "alternateNames": []
   },
   {
-    "name": "Ferroseed",
-    "number": 597
+    "name": "ferroseed",
+    "number": 597,
+    "alternateNames": []
   },
   {
-    "name": "Ferrothorn",
-    "number": 598
+    "name": "ferrothorn",
+    "number": 598,
+    "alternateNames": []
   },
   {
-    "name": "Klink",
-    "number": 599
+    "name": "klink",
+    "number": 599,
+    "alternateNames": []
   },
   {
-    "name": "Klang",
-    "number": 600
+    "name": "klang",
+    "number": 600,
+    "alternateNames": []
   },
   {
-    "name": "Klinklang",
-    "number": 601
+    "name": "klinklang",
+    "number": 601,
+    "alternateNames": []
   },
   {
-    "name": "Tynamo",
-    "number": 602
+    "name": "tynamo",
+    "number": 602,
+    "alternateNames": []
   },
   {
-    "name": "Eelektrik",
-    "number": 603
+    "name": "eelektrik",
+    "number": 603,
+    "alternateNames": []
   },
   {
-    "name": "Eelektross",
-    "number": 604
+    "name": "eelektross",
+    "number": 604,
+    "alternateNames": []
   },
   {
-    "name": "Elgyem",
-    "number": 605
+    "name": "elgyem",
+    "number": 605,
+    "alternateNames": []
   },
   {
-    "name": "Beheeyem",
-    "number": 606
+    "name": "beheeyem",
+    "number": 606,
+    "alternateNames": []
   },
   {
-    "name": "Litwick",
-    "number": 607
+    "name": "litwick",
+    "number": 607,
+    "alternateNames": []
   },
   {
-    "name": "Lampent",
-    "number": 608
+    "name": "lampent",
+    "number": 608,
+    "alternateNames": []
   },
   {
-    "name": "Chandelure",
-    "number": 609
+    "name": "chandelure",
+    "number": 609,
+    "alternateNames": []
   },
   {
-    "name": "Axew",
-    "number": 610
+    "name": "axew",
+    "number": 610,
+    "alternateNames": []
   },
   {
-    "name": "Fraxure",
-    "number": 611
+    "name": "fraxure",
+    "number": 611,
+    "alternateNames": []
   },
   {
-    "name": "Haxorus",
-    "number": 612
+    "name": "haxorus",
+    "number": 612,
+    "alternateNames": []
   },
   {
-    "name": "Cubchoo",
-    "number": 613
+    "name": "cubchoo",
+    "number": 613,
+    "alternateNames": []
   },
   {
-    "name": "Beartic",
-    "number": 614
+    "name": "beartic",
+    "number": 614,
+    "alternateNames": []
   },
   {
-    "name": "Cryogonal",
-    "number": 615
+    "name": "cryogonal",
+    "number": 615,
+    "alternateNames": []
   },
   {
-    "name": "Shelmet",
-    "number": 616
+    "name": "shelmet",
+    "number": 616,
+    "alternateNames": []
   },
   {
-    "name": "Accelgor",
-    "number": 617
+    "name": "accelgor",
+    "number": 617,
+    "alternateNames": []
   },
   {
-    "name": "Stunfisk",
-    "number": 618
+    "name": "stunfisk",
+    "number": 618,
+    "alternateNames": []
   },
   {
-    "name": "Mienfoo",
-    "number": 619
+    "name": "mienfoo",
+    "number": 619,
+    "alternateNames": []
   },
   {
-    "name": "Mienshao",
-    "number": 620
+    "name": "mienshao",
+    "number": 620,
+    "alternateNames": []
   },
   {
-    "name": "Druddigon",
-    "number": 621
+    "name": "druddigon",
+    "number": 621,
+    "alternateNames": []
   },
   {
-    "name": "Golett",
-    "number": 622
+    "name": "golett",
+    "number": 622,
+    "alternateNames": []
   },
   {
-    "name": "Golurk",
-    "number": 623
+    "name": "golurk",
+    "number": 623,
+    "alternateNames": []
   },
   {
-    "name": "Pawniard",
-    "number": 624
+    "name": "pawniard",
+    "number": 624,
+    "alternateNames": []
   },
   {
-    "name": "Bisharp",
-    "number": 625
+    "name": "bisharp",
+    "number": 625,
+    "alternateNames": []
   },
   {
-    "name": "Bouffalant",
-    "number": 626
+    "name": "bouffalant",
+    "number": 626,
+    "alternateNames": []
   },
   {
-    "name": "Rufflet",
-    "number": 627
+    "name": "rufflet",
+    "number": 627,
+    "alternateNames": []
   },
   {
-    "name": "Braviary",
-    "number": 628
+    "name": "braviary",
+    "number": 628,
+    "alternateNames": []
   },
   {
-    "name": "Vullaby",
-    "number": 629
+    "name": "vullaby",
+    "number": 629,
+    "alternateNames": []
   },
   {
-    "name": "Mandibuzz",
-    "number": 630
+    "name": "mandibuzz",
+    "number": 630,
+    "alternateNames": []
   },
   {
-    "name": "Heatmor",
-    "number": 631
+    "name": "heatmor",
+    "number": 631,
+    "alternateNames": []
   },
   {
-    "name": "Durant",
-    "number": 632
+    "name": "durant",
+    "number": 632,
+    "alternateNames": []
   },
   {
-    "name": "Deino",
-    "number": 633
+    "name": "deino",
+    "number": 633,
+    "alternateNames": []
   },
   {
-    "name": "Zweilous",
-    "number": 634
+    "name": "zweilous",
+    "number": 634,
+    "alternateNames": []
   },
   {
-    "name": "Hydreigon",
-    "number": 635
+    "name": "hydreigon",
+    "number": 635,
+    "alternateNames": []
   },
   {
-    "name": "Larvesta",
-    "number": 636
+    "name": "larvesta",
+    "number": 636,
+    "alternateNames": []
   },
   {
-    "name": "Volcarona",
-    "number": 637
+    "name": "volcarona",
+    "number": 637,
+    "alternateNames": []
   },
   {
-    "name": "Cobalion",
-    "number": 638
+    "name": "cobalion",
+    "number": 638,
+    "alternateNames": []
   },
   {
-    "name": "Terrakion",
-    "number": 639
+    "name": "terrakion",
+    "number": 639,
+    "alternateNames": []
   },
   {
-    "name": "Virizion",
-    "number": 640
+    "name": "virizion",
+    "number": 640,
+    "alternateNames": []
   },
   {
-    "name": "Tornadus",
-    "number": 641
+    "name": "tornadus",
+    "number": 641,
+    "alternateNames": []
   },
   {
-    "name": "Thundurus",
-    "number": 642
+    "name": "thundurus",
+    "number": 642,
+    "alternateNames": []
   },
   {
-    "name": "Reshiram",
-    "number": 643
+    "name": "reshiram",
+    "number": 643,
+    "alternateNames": []
   },
   {
-    "name": "Zekrom",
-    "number": 644
+    "name": "zekrom",
+    "number": 644,
+    "alternateNames": []
   },
   {
-    "name": "Landorus",
-    "number": 645
+    "name": "landorus",
+    "number": 645,
+    "alternateNames": []
   },
   {
-    "name": "Kyurem",
-    "number": 646
+    "name": "kyurem",
+    "number": 646,
+    "alternateNames": []
   },
   {
-    "name": "Keldeo",
-    "number": 647
+    "name": "keldeo",
+    "number": 647,
+    "alternateNames": []
   },
   {
-    "name": "Meloetta",
-    "number": 648
+    "name": "meloetta",
+    "number": 648,
+    "alternateNames": []
   },
   {
-    "name": "Genesect",
-    "number": 649
+    "name": "genesect",
+    "number": 649,
+    "alternateNames": []
   },
   {
-    "name": "Chespin",
-    "number": 650
+    "name": "chespin",
+    "number": 650,
+    "alternateNames": []
   },
   {
-    "name": "Quilladin",
-    "number": 651
+    "name": "quilladin",
+    "number": 651,
+    "alternateNames": []
   },
   {
-    "name": "Chesnaught",
-    "number": 652
+    "name": "chesnaught",
+    "number": 652,
+    "alternateNames": []
   },
   {
-    "name": "Fennekin",
-    "number": 653
+    "name": "fennekin",
+    "number": 653,
+    "alternateNames": []
   },
   {
-    "name": "Braixen",
-    "number": 654
+    "name": "braixen",
+    "number": 654,
+    "alternateNames": []
   },
   {
-    "name": "Delphox",
-    "number": 655
+    "name": "delphox",
+    "number": 655,
+    "alternateNames": []
   },
   {
-    "name": "Froakie",
-    "number": 656
+    "name": "froakie",
+    "number": 656,
+    "alternateNames": []
   },
   {
-    "name": "Frogadier",
-    "number": 657
+    "name": "frogadier",
+    "number": 657,
+    "alternateNames": []
   },
   {
-    "name": "Greninja",
-    "number": 658
+    "name": "greninja",
+    "number": 658,
+    "alternateNames": []
   },
   {
-    "name": "Bunnelby",
-    "number": 659
+    "name": "bunnelby",
+    "number": 659,
+    "alternateNames": []
   },
   {
-    "name": "Diggersby",
-    "number": 660
+    "name": "diggersby",
+    "number": 660,
+    "alternateNames": []
   },
   {
-    "name": "Fletchling",
-    "number": 661
+    "name": "fletchling",
+    "number": 661,
+    "alternateNames": []
   },
   {
-    "name": "Fletchinder",
-    "number": 662
+    "name": "fletchinder",
+    "number": 662,
+    "alternateNames": []
   },
   {
-    "name": "Talonflame",
-    "number": 663
+    "name": "talonflame",
+    "number": 663,
+    "alternateNames": []
   },
   {
-    "name": "Scatterbug",
-    "number": 664
+    "name": "scatterbug",
+    "number": 664,
+    "alternateNames": []
   },
   {
-    "name": "Spewpa",
-    "number": 665
+    "name": "spewpa",
+    "number": 665,
+    "alternateNames": []
   },
   {
-    "name": "Vivillon",
-    "number": 666
+    "name": "vivillon",
+    "number": 666,
+    "alternateNames": []
   },
   {
-    "name": "Litleo",
-    "number": 667
+    "name": "litleo",
+    "number": 667,
+    "alternateNames": []
   },
   {
-    "name": "Pyroar",
-    "number": 668
+    "name": "pyroar",
+    "number": 668,
+    "alternateNames": []
   },
   {
-    "name": "Flabébé",
-    "number": 669
+    "name": "flabébé",
+    "number": 669,
+    "alternateNames": []
   },
   {
-    "name": "Floette",
-    "number": 670
+    "name": "floette",
+    "number": 670,
+    "alternateNames": []
   },
   {
-    "name": "Florges",
-    "number": 671
+    "name": "florges",
+    "number": 671,
+    "alternateNames": []
   },
   {
-    "name": "Skiddo",
-    "number": 672
+    "name": "skiddo",
+    "number": 672,
+    "alternateNames": []
   },
   {
-    "name": "Gogoat",
-    "number": 673
+    "name": "gogoat",
+    "number": 673,
+    "alternateNames": []
   },
   {
-    "name": "Pancham",
-    "number": 674
+    "name": "pancham",
+    "number": 674,
+    "alternateNames": []
   },
   {
-    "name": "Pangoro",
-    "number": 675
+    "name": "pangoro",
+    "number": 675,
+    "alternateNames": []
   },
   {
-    "name": "Furfrou",
-    "number": 676
+    "name": "furfrou",
+    "number": 676,
+    "alternateNames": []
   },
   {
-    "name": "Espurr",
-    "number": 677
+    "name": "espurr",
+    "number": 677,
+    "alternateNames": []
   },
   {
-    "name": "Meowstic",
-    "number": 678
+    "name": "meowstic",
+    "number": 678,
+    "alternateNames": []
   },
   {
-    "name": "Honedge",
-    "number": 679
+    "name": "honedge",
+    "number": 679,
+    "alternateNames": []
   },
   {
-    "name": "Doublade",
-    "number": 680
+    "name": "doublade",
+    "number": 680,
+    "alternateNames": []
   },
   {
-    "name": "Aegislash",
-    "number": 681
+    "name": "aegislash",
+    "number": 681,
+    "alternateNames": []
   },
   {
-    "name": "Spritzee",
-    "number": 682
+    "name": "spritzee",
+    "number": 682,
+    "alternateNames": []
   },
   {
-    "name": "Aromatisse",
-    "number": 683
+    "name": "aromatisse",
+    "number": 683,
+    "alternateNames": []
   },
   {
-    "name": "Swirlix",
-    "number": 684
+    "name": "swirlix",
+    "number": 684,
+    "alternateNames": []
   },
   {
-    "name": "Slurpuff",
-    "number": 685
+    "name": "slurpuff",
+    "number": 685,
+    "alternateNames": []
   },
   {
-    "name": "Inkay",
-    "number": 686
+    "name": "inkay",
+    "number": 686,
+    "alternateNames": []
   },
   {
-    "name": "Malamar",
-    "number": 687
+    "name": "malamar",
+    "number": 687,
+    "alternateNames": []
   },
   {
-    "name": "Binacle",
-    "number": 688
+    "name": "binacle",
+    "number": 688,
+    "alternateNames": []
   },
   {
-    "name": "Barbaracle",
-    "number": 689
+    "name": "barbaracle",
+    "number": 689,
+    "alternateNames": []
   },
   {
-    "name": "Skrelp",
-    "number": 690
+    "name": "skrelp",
+    "number": 690,
+    "alternateNames": []
   },
   {
-    "name": "Dragalge",
-    "number": 691
+    "name": "dragalge",
+    "number": 691,
+    "alternateNames": []
   },
   {
-    "name": "Clauncher",
-    "number": 692
+    "name": "clauncher",
+    "number": 692,
+    "alternateNames": []
   },
   {
-    "name": "Clawitzer",
-    "number": 693
+    "name": "clawitzer",
+    "number": 693,
+    "alternateNames": []
   },
   {
-    "name": "Helioptile",
-    "number": 694
+    "name": "helioptile",
+    "number": 694,
+    "alternateNames": []
   },
   {
-    "name": "Heliolisk",
-    "number": 695
+    "name": "heliolisk",
+    "number": 695,
+    "alternateNames": []
   },
   {
-    "name": "Tyrunt",
-    "number": 696
+    "name": "tyrunt",
+    "number": 696,
+    "alternateNames": []
   },
   {
-    "name": "Tyrantrum",
-    "number": 697
+    "name": "tyrantrum",
+    "number": 697,
+    "alternateNames": []
   },
   {
-    "name": "Amaura",
-    "number": 698
+    "name": "amaura",
+    "number": 698,
+    "alternateNames": []
   },
   {
-    "name": "Aurorus",
-    "number": 699
+    "name": "aurorus",
+    "number": 699,
+    "alternateNames": []
   },
   {
-    "name": "Sylveon",
-    "number": 700
+    "name": "sylveon",
+    "number": 700,
+    "alternateNames": []
   },
   {
-    "name": "Hawlucha",
-    "number": 701
+    "name": "hawlucha",
+    "number": 701,
+    "alternateNames": []
   },
   {
-    "name": "Dedenne",
-    "number": 702
+    "name": "dedenne",
+    "number": 702,
+    "alternateNames": []
   },
   {
-    "name": "Carbink",
-    "number": 703
+    "name": "carbink",
+    "number": 703,
+    "alternateNames": []
   },
   {
-    "name": "Goomy",
-    "number": 704
+    "name": "goomy",
+    "number": 704,
+    "alternateNames": []
   },
   {
-    "name": "Sliggoo",
-    "number": 705
+    "name": "sliggoo",
+    "number": 705,
+    "alternateNames": []
   },
   {
-    "name": "Goodra",
-    "number": 706
+    "name": "goodra",
+    "number": 706,
+    "alternateNames": []
   },
   {
-    "name": "Klefki",
-    "number": 707
+    "name": "klefki",
+    "number": 707,
+    "alternateNames": []
   },
   {
-    "name": "Phantump",
-    "number": 708
+    "name": "phantump",
+    "number": 708,
+    "alternateNames": []
   },
   {
-    "name": "Trevenant",
-    "number": 709
+    "name": "trevenant",
+    "number": 709,
+    "alternateNames": []
   },
   {
-    "name": "Pumpkaboo",
-    "number": 710
+    "name": "pumpkaboo",
+    "number": 710,
+    "alternateNames": []
   },
   {
-    "name": "Gourgeist",
-    "number": 711
+    "name": "gourgeist",
+    "number": 711,
+    "alternateNames": []
   },
   {
-    "name": "Bergmite",
-    "number": 712
+    "name": "bergmite",
+    "number": 712,
+    "alternateNames": []
   },
   {
-    "name": "Avalugg",
-    "number": 713
+    "name": "avalugg",
+    "number": 713,
+    "alternateNames": []
   },
   {
-    "name": "Noibat",
-    "number": 714
+    "name": "noibat",
+    "number": 714,
+    "alternateNames": []
   },
   {
-    "name": "Noivern",
-    "number": 715
+    "name": "noivern",
+    "number": 715,
+    "alternateNames": []
   },
   {
-    "name": "Xerneas",
-    "number": 716
+    "name": "xerneas",
+    "number": 716,
+    "alternateNames": []
   },
   {
-    "name": "Yveltal",
-    "number": 717
+    "name": "yveltal",
+    "number": 717,
+    "alternateNames": []
   },
   {
-    "name": "Zygarde",
-    "number": 718
+    "name": "zygarde",
+    "number": 718,
+    "alternateNames": []
   },
   {
-    "name": "Diancie",
-    "number": 719
+    "name": "diancie",
+    "number": 719,
+    "alternateNames": []
   },
   {
-    "name": "Hoopa",
-    "number": 720
+    "name": "hoopa",
+    "number": 720,
+    "alternateNames": []
   },
   {
-    "name": "Volcanion",
-    "number": 721
+    "name": "volcanion",
+    "number": 721,
+    "alternateNames": []
   },
   {
-    "name": "Rowlet",
-    "number": 722
+    "name": "rowlet",
+    "number": 722,
+    "alternateNames": []
   },
   {
-    "name": "Dartrix",
-    "number": 723
+    "name": "dartrix",
+    "number": 723,
+    "alternateNames": []
   },
   {
-    "name": "Decidueye",
-    "number": 724
+    "name": "decidueye",
+    "number": 724,
+    "alternateNames": []
   },
   {
-    "name": "Litten",
-    "number": 725
+    "name": "litten",
+    "number": 725,
+    "alternateNames": []
   },
   {
-    "name": "Torracat",
-    "number": 726
+    "name": "torracat",
+    "number": 726,
+    "alternateNames": []
   },
   {
-    "name": "Incineroar",
-    "number": 727
+    "name": "incineroar",
+    "number": 727,
+    "alternateNames": []
   },
   {
-    "name": "Popplio",
-    "number": 728
+    "name": "popplio",
+    "number": 728,
+    "alternateNames": []
   },
   {
-    "name": "Brionne",
-    "number": 729
+    "name": "brionne",
+    "number": 729,
+    "alternateNames": []
   },
   {
-    "name": "Primarina",
-    "number": 730
+    "name": "primarina",
+    "number": 730,
+    "alternateNames": []
   },
   {
-    "name": "Pikipek",
-    "number": 731
+    "name": "pikipek",
+    "number": 731,
+    "alternateNames": []
   },
   {
-    "name": "Trumbeak",
-    "number": 732
+    "name": "trumbeak",
+    "number": 732,
+    "alternateNames": []
   },
   {
-    "name": "Toucannon",
-    "number": 733
+    "name": "toucannon",
+    "number": 733,
+    "alternateNames": []
   },
   {
-    "name": "Yungoos",
-    "number": 734
+    "name": "yungoos",
+    "number": 734,
+    "alternateNames": []
   },
   {
-    "name": "Gumshoos",
-    "number": 735
+    "name": "gumshoos",
+    "number": 735,
+    "alternateNames": []
   },
   {
-    "name": "Grubbin",
-    "number": 736
+    "name": "grubbin",
+    "number": 736,
+    "alternateNames": []
   },
   {
-    "name": "Charjabug",
-    "number": 737
+    "name": "charjabug",
+    "number": 737,
+    "alternateNames": []
   },
   {
-    "name": "Vikavolt",
-    "number": 738
+    "name": "vikavolt",
+    "number": 738,
+    "alternateNames": []
   },
   {
-    "name": "Crabrawler",
-    "number": 739
+    "name": "crabrawler",
+    "number": 739,
+    "alternateNames": []
   },
   {
-    "name": "Crabominable",
-    "number": 740
+    "name": "crabominable",
+    "number": 740,
+    "alternateNames": []
   },
   {
-    "name": "Oricorio",
-    "number": 741
+    "name": "oricorio",
+    "number": 741,
+    "alternateNames": []
   },
   {
-    "name": "Cutiefly",
-    "number": 742
+    "name": "cutiefly",
+    "number": 742,
+    "alternateNames": []
   },
   {
-    "name": "Ribombee",
-    "number": 743
+    "name": "ribombee",
+    "number": 743,
+    "alternateNames": []
   },
   {
-    "name": "Rockruff",
-    "number": 744
+    "name": "rockruff",
+    "number": 744,
+    "alternateNames": []
   },
   {
-    "name": "Lycanroc",
-    "number": 745
+    "name": "lycanroc",
+    "number": 745,
+    "alternateNames": []
   },
   {
-    "name": "Wishiwashi",
-    "number": 746
+    "name": "wishiwashi",
+    "number": 746,
+    "alternateNames": []
   },
   {
-    "name": "Mareanie",
-    "number": 747
+    "name": "mareanie",
+    "number": 747,
+    "alternateNames": []
   },
   {
-    "name": "Toxapex",
-    "number": 748
+    "name": "toxapex",
+    "number": 748,
+    "alternateNames": []
   },
   {
-    "name": "Mudbray",
-    "number": 749
+    "name": "mudbray",
+    "number": 749,
+    "alternateNames": []
   },
   {
-    "name": "Mudsdale",
-    "number": 750
+    "name": "mudsdale",
+    "number": 750,
+    "alternateNames": []
   },
   {
-    "name": "Dewpider",
-    "number": 751
+    "name": "dewpider",
+    "number": 751,
+    "alternateNames": []
   },
   {
-    "name": "Araquanid",
-    "number": 752
+    "name": "araquanid",
+    "number": 752,
+    "alternateNames": []
   },
   {
-    "name": "Fomantis",
-    "number": 753
+    "name": "fomantis",
+    "number": 753,
+    "alternateNames": []
   },
   {
-    "name": "Lurantis",
-    "number": 754
+    "name": "lurantis",
+    "number": 754,
+    "alternateNames": []
   },
   {
-    "name": "Morelull",
-    "number": 755
+    "name": "morelull",
+    "number": 755,
+    "alternateNames": []
   },
   {
-    "name": "Shiinotic",
-    "number": 756
+    "name": "shiinotic",
+    "number": 756,
+    "alternateNames": []
   },
   {
-    "name": "Salandit",
-    "number": 757
+    "name": "salandit",
+    "number": 757,
+    "alternateNames": []
   },
   {
-    "name": "Salazzle",
-    "number": 758
+    "name": "salazzle",
+    "number": 758,
+    "alternateNames": []
   },
   {
-    "name": "Stufful",
-    "number": 759
+    "name": "stufful",
+    "number": 759,
+    "alternateNames": []
   },
   {
-    "name": "Bewear",
-    "number": 760
+    "name": "bewear",
+    "number": 760,
+    "alternateNames": []
   },
   {
-    "name": "Bounsweet",
-    "number": 761
+    "name": "bounsweet",
+    "number": 761,
+    "alternateNames": []
   },
   {
-    "name": "Steenee",
-    "number": 762
+    "name": "steenee",
+    "number": 762,
+    "alternateNames": []
   },
   {
-    "name": "Tsareena",
-    "number": 763
+    "name": "tsareena",
+    "number": 763,
+    "alternateNames": []
   },
   {
-    "name": "Comfey",
-    "number": 764
+    "name": "comfey",
+    "number": 764,
+    "alternateNames": []
   },
   {
-    "name": "Oranguru",
-    "number": 765
+    "name": "oranguru",
+    "number": 765,
+    "alternateNames": []
   },
   {
-    "name": "Passimian",
-    "number": 766
+    "name": "passimian",
+    "number": 766,
+    "alternateNames": []
   },
   {
-    "name": "Wimpod",
-    "number": 767
+    "name": "wimpod",
+    "number": 767,
+    "alternateNames": []
   },
   {
-    "name": "Golisopod",
-    "number": 768
+    "name": "golisopod",
+    "number": 768,
+    "alternateNames": []
   },
   {
-    "name": "Sandygast",
-    "number": 769
+    "name": "sandygast",
+    "number": 769,
+    "alternateNames": []
   },
   {
-    "name": "Palossand",
-    "number": 770
+    "name": "palossand",
+    "number": 770,
+    "alternateNames": []
   },
   {
-    "name": "Pyukumuku",
-    "number": 771
+    "name": "pyukumuku",
+    "number": 771,
+    "alternateNames": []
   },
   {
-    "name": "Type: Null",
-    "number": 772
+    "name": "type-null",
+    "number": 772,
+    "alternateNames": []
   },
   {
-    "name": "Silvally",
-    "number": 773
+    "name": "silvally",
+    "number": 773,
+    "alternateNames": []
   },
   {
-    "name": "Minior",
-    "number": 774
+    "name": "minior",
+    "number": 774,
+    "alternateNames": []
   },
   {
-    "name": "Komala",
-    "number": 775
+    "name": "komala",
+    "number": 775,
+    "alternateNames": []
   },
   {
-    "name": "Turtonator",
-    "number": 776
+    "name": "turtonator",
+    "number": 776,
+    "alternateNames": []
   },
   {
-    "name": "Togedemaru",
-    "number": 777
+    "name": "togedemaru",
+    "number": 777,
+    "alternateNames": []
   },
   {
-    "name": "Mimikyu",
-    "number": 778
+    "name": "mimikyu",
+    "number": 778,
+    "alternateNames": []
   },
   {
-    "name": "Bruxish",
-    "number": 779
+    "name": "bruxish",
+    "number": 779,
+    "alternateNames": []
   },
   {
-    "name": "Drampa",
-    "number": 780
+    "name": "drampa",
+    "number": 780,
+    "alternateNames": []
   },
   {
-    "name": "Dhelmise",
-    "number": 781
+    "name": "dhelmise",
+    "number": 781,
+    "alternateNames": []
   },
   {
-    "name": "Jangmo-o",
-    "number": 782
+    "name": "jangmo-o",
+    "number": 782,
+    "alternateNames": []
   },
   {
-    "name": "Hakamo-o",
-    "number": 783
+    "name": "hakamo-o",
+    "number": 783,
+    "alternateNames": []
   },
   {
-    "name": "Kommo-o",
-    "number": 784
+    "name": "kommo-o",
+    "number": 784,
+    "alternateNames": []
   },
   {
-    "name": "Tapu Koko",
-    "number": 785
+    "name": "tapu-koko",
+    "number": 785,
+    "alternateNames": []
   },
   {
-    "name": "Tapu Lele",
-    "number": 786
+    "name": "tapu-lele",
+    "number": 786,
+    "alternateNames": []
   },
   {
-    "name": "Tapu Bulu",
-    "number": 787
+    "name": "tapu-bulu",
+    "number": 787,
+    "alternateNames": []
   },
   {
-    "name": "Tapu Fini",
-    "number": 788
+    "name": "tapu-fini",
+    "number": 788,
+    "alternateNames": []
   },
   {
-    "name": "Cosmog",
-    "number": 789
+    "name": "cosmog",
+    "number": 789,
+    "alternateNames": []
   },
   {
-    "name": "Cosmoem",
-    "number": 790
+    "name": "cosmoem",
+    "number": 790,
+    "alternateNames": []
   },
   {
-    "name": "Solgaleo",
-    "number": 791
+    "name": "solgaleo",
+    "number": 791,
+    "alternateNames": []
   },
   {
-    "name": "Lunala",
-    "number": 792
+    "name": "lunala",
+    "number": 792,
+    "alternateNames": []
   },
   {
-    "name": "Nihilego",
-    "number": 793
+    "name": "nihilego",
+    "number": 793,
+    "alternateNames": []
   },
   {
-    "name": "Buzzwole",
-    "number": 794
+    "name": "buzzwole",
+    "number": 794,
+    "alternateNames": []
   },
   {
-    "name": "Pheromosa",
-    "number": 795
+    "name": "pheromosa",
+    "number": 795,
+    "alternateNames": []
   },
   {
-    "name": "Xurkitree",
-    "number": 796
+    "name": "xurkitree",
+    "number": 796,
+    "alternateNames": []
   },
   {
-    "name": "Celesteela",
-    "number": 797
+    "name": "celesteela",
+    "number": 797,
+    "alternateNames": []
   },
   {
-    "name": "Kartana",
-    "number": 798
+    "name": "kartana",
+    "number": 798,
+    "alternateNames": []
   },
   {
-    "name": "Guzzlord",
-    "number": 799
+    "name": "guzzlord",
+    "number": 799,
+    "alternateNames": []
   },
   {
-    "name": "Necrozma",
-    "number": 800
+    "name": "necrozma",
+    "number": 800,
+    "alternateNames": []
   },
   {
-    "name": "Magearna",
-    "number": 801
+    "name": "magearna",
+    "number": 801,
+    "alternateNames": []
   },
   {
-    "name": "Marshadow",
-    "number": 802
+    "name": "marshadow",
+    "number": 802,
+    "alternateNames": []
   },
   {
-    "name": "Poipole",
-    "number": 803
+    "name": "poipole",
+    "number": 803,
+    "alternateNames": []
   },
   {
-    "name": "Naganadel",
-    "number": 804
+    "name": "naganadel",
+    "number": 804,
+    "alternateNames": []
   },
   {
-    "name": "Stakataka",
-    "number": 805
+    "name": "stakataka",
+    "number": 805,
+    "alternateNames": []
   },
   {
-    "name": "Blacephalon",
-    "number": 806
+    "name": "blacephalon",
+    "number": 806,
+    "alternateNames": []
   },
   {
-    "name": "Zeraora",
-    "number": 807
+    "name": "zeraora",
+    "number": 807,
+    "alternateNames": []
   },
   {
-    "name": "Meltan",
-    "number": 808
+    "name": "meltan",
+    "number": 808,
+    "alternateNames": []
   },
   {
-    "name": "Melmetal",
-    "number": 809
+    "name": "melmetal",
+    "number": 809,
+    "alternateNames": []
   },
   {
-    "name": "Grookey",
-    "number": 810
+    "name": "grookey",
+    "number": 810,
+    "alternateNames": []
   },
   {
-    "name": "Thwackey",
-    "number": 811
+    "name": "thwackey",
+    "number": 811,
+    "alternateNames": []
   },
   {
-    "name": "Rillaboom",
-    "number": 812
+    "name": "rillaboom",
+    "number": 812,
+    "alternateNames": []
   },
   {
-    "name": "Scorbunny",
-    "number": 813
+    "name": "scorbunny",
+    "number": 813,
+    "alternateNames": []
   },
   {
-    "name": "Raboot",
-    "number": 814
+    "name": "raboot",
+    "number": 814,
+    "alternateNames": []
   },
   {
-    "name": "Cinderace",
-    "number": 815
+    "name": "cinderace",
+    "number": 815,
+    "alternateNames": []
   },
   {
-    "name": "Sobble",
-    "number": 816
+    "name": "sobble",
+    "number": 816,
+    "alternateNames": []
   },
   {
-    "name": "Drizzile",
-    "number": 817
+    "name": "drizzile",
+    "number": 817,
+    "alternateNames": []
   },
   {
-    "name": "Inteleon",
-    "number": 818
+    "name": "inteleon",
+    "number": 818,
+    "alternateNames": []
   },
   {
-    "name": "Skwovet",
-    "number": 819
+    "name": "skwovet",
+    "number": 819,
+    "alternateNames": []
   },
   {
-    "name": "Greedent",
-    "number": 820
+    "name": "greedent",
+    "number": 820,
+    "alternateNames": []
   },
   {
-    "name": "Rookidee",
-    "number": 821
+    "name": "rookidee",
+    "number": 821,
+    "alternateNames": []
   },
   {
-    "name": "Corvisquire",
-    "number": 822
+    "name": "corvisquire",
+    "number": 822,
+    "alternateNames": []
   },
   {
-    "name": "Corviknight",
-    "number": 823
+    "name": "corviknight",
+    "number": 823,
+    "alternateNames": []
   },
   {
-    "name": "Blipbug",
-    "number": 824
+    "name": "blipbug",
+    "number": 824,
+    "alternateNames": []
   },
   {
-    "name": "Dottler",
-    "number": 825
+    "name": "dottler",
+    "number": 825,
+    "alternateNames": []
   },
   {
-    "name": "Orbeetle",
-    "number": 826
+    "name": "orbeetle",
+    "number": 826,
+    "alternateNames": []
   },
   {
-    "name": "Nickit",
-    "number": 827
+    "name": "nickit",
+    "number": 827,
+    "alternateNames": []
   },
   {
-    "name": "Thievul",
-    "number": 828
+    "name": "thievul",
+    "number": 828,
+    "alternateNames": []
   },
   {
-    "name": "Gossifleur",
-    "number": 829
+    "name": "gossifleur",
+    "number": 829,
+    "alternateNames": []
   },
   {
-    "name": "Eldegoss",
-    "number": 830
+    "name": "eldegoss",
+    "number": 830,
+    "alternateNames": []
   },
   {
-    "name": "Wooloo",
-    "number": 831
+    "name": "wooloo",
+    "number": 831,
+    "alternateNames": []
   },
   {
-    "name": "Dubwool",
-    "number": 832
+    "name": "dubwool",
+    "number": 832,
+    "alternateNames": []
   },
   {
-    "name": "Chewtle",
-    "number": 833
+    "name": "chewtle",
+    "number": 833,
+    "alternateNames": []
   },
   {
-    "name": "Drednaw",
-    "number": 834
+    "name": "drednaw",
+    "number": 834,
+    "alternateNames": []
   },
   {
-    "name": "Yamper",
-    "number": 835
+    "name": "yamper",
+    "number": 835,
+    "alternateNames": []
   },
   {
-    "name": "Boltund",
-    "number": 836
+    "name": "boltund",
+    "number": 836,
+    "alternateNames": []
   },
   {
-    "name": "Rolycoly",
-    "number": 837
+    "name": "rolycoly",
+    "number": 837,
+    "alternateNames": []
   },
   {
-    "name": "Carkol",
-    "number": 838
+    "name": "carkol",
+    "number": 838,
+    "alternateNames": []
   },
   {
-    "name": "Coalossal",
-    "number": 839
+    "name": "coalossal",
+    "number": 839,
+    "alternateNames": []
   },
   {
-    "name": "Applin",
-    "number": 840
+    "name": "applin",
+    "number": 840,
+    "alternateNames": []
   },
   {
-    "name": "Flapple",
-    "number": 841
+    "name": "flapple",
+    "number": 841,
+    "alternateNames": []
   },
   {
-    "name": "Appletun",
-    "number": 842
+    "name": "appletun",
+    "number": 842,
+    "alternateNames": []
   },
   {
-    "name": "Silicobra",
-    "number": 843
+    "name": "silicobra",
+    "number": 843,
+    "alternateNames": []
   },
   {
-    "name": "Sandaconda",
-    "number": 844
+    "name": "sandaconda",
+    "number": 844,
+    "alternateNames": []
   },
   {
-    "name": "Cramorant",
-    "number": 845
+    "name": "cramorant",
+    "number": 845,
+    "alternateNames": []
   },
   {
-    "name": "Arrokuda",
-    "number": 846
+    "name": "arrokuda",
+    "number": 846,
+    "alternateNames": []
   },
   {
-    "name": "Barraskewda",
-    "number": 847
+    "name": "barraskewda",
+    "number": 847,
+    "alternateNames": []
   },
   {
-    "name": "Toxel",
-    "number": 848
+    "name": "toxel",
+    "number": 848,
+    "alternateNames": []
   },
   {
-    "name": "Toxtricity",
-    "number": 849
+    "name": "toxtricity",
+    "number": 849,
+    "alternateNames": []
   },
   {
-    "name": "Sizzlipede",
-    "number": 850
+    "name": "sizzlipede",
+    "number": 850,
+    "alternateNames": []
   },
   {
-    "name": "Centiskorch",
-    "number": 851
+    "name": "centiskorch",
+    "number": 851,
+    "alternateNames": []
   },
   {
-    "name": "Clobbopus",
-    "number": 852
+    "name": "clobbopus",
+    "number": 852,
+    "alternateNames": []
   },
   {
-    "name": "Grapploct",
-    "number": 853
+    "name": "grapploct",
+    "number": 853,
+    "alternateNames": []
   },
   {
-    "name": "Sinistea",
-    "number": 854
+    "name": "sinistea",
+    "number": 854,
+    "alternateNames": []
   },
   {
-    "name": "Polteageist",
-    "number": 855
+    "name": "polteageist",
+    "number": 855,
+    "alternateNames": []
   },
   {
-    "name": "Hatenna",
-    "number": 856
+    "name": "hatenna",
+    "number": 856,
+    "alternateNames": []
   },
   {
-    "name": "Hattrem",
-    "number": 857
+    "name": "hattrem",
+    "number": 857,
+    "alternateNames": []
   },
   {
-    "name": "Hatterene",
-    "number": 858
+    "name": "hatterene",
+    "number": 858,
+    "alternateNames": []
   },
   {
-    "name": "Impidimp",
-    "number": 859
+    "name": "impidimp",
+    "number": 859,
+    "alternateNames": []
   },
   {
-    "name": "Morgrem",
-    "number": 860
+    "name": "morgrem",
+    "number": 860,
+    "alternateNames": []
   },
   {
-    "name": "Grimmsnarl",
-    "number": 861
+    "name": "grimmsnarl",
+    "number": 861,
+    "alternateNames": []
   },
   {
-    "name": "Obstagoon",
-    "number": 862
+    "name": "obstagoon",
+    "number": 862,
+    "alternateNames": []
   },
   {
-    "name": "Perrserker",
-    "number": 863
+    "name": "perrserker",
+    "number": 863,
+    "alternateNames": []
   },
   {
-    "name": "Cursola",
-    "number": 864
+    "name": "cursola",
+    "number": 864,
+    "alternateNames": []
   },
   {
-    "name": "Sirfetch'd",
-    "number": 865
+    "name": "sirfetch'd",
+    "number": 865,
+    "alternateNames": []
   },
   {
-    "name": "Mr. Rime",
-    "number": 866
+    "name": "mr-rime",
+    "number": 866,
+    "alternateNames": []
   },
   {
-    "name": "Runerigus",
-    "number": 867
+    "name": "runerigus",
+    "number": 867,
+    "alternateNames": []
   },
   {
-    "name": "Milcery",
-    "number": 868
+    "name": "milcery",
+    "number": 868,
+    "alternateNames": []
   },
   {
-    "name": "Alcremie",
-    "number": 869
+    "name": "alcremie",
+    "number": 869,
+    "alternateNames": []
   },
   {
-    "name": "Falinks",
-    "number": 870
+    "name": "falinks",
+    "number": 870,
+    "alternateNames": []
   },
   {
-    "name": "Pincurchin",
-    "number": 871
+    "name": "pincurchin",
+    "number": 871,
+    "alternateNames": []
   },
   {
-    "name": "Snom",
-    "number": 872
+    "name": "snom",
+    "number": 872,
+    "alternateNames": []
   },
   {
-    "name": "Frosmoth",
-    "number": 873
+    "name": "frosmoth",
+    "number": 873,
+    "alternateNames": []
   },
   {
-    "name": "Stonjourner",
-    "number": 874
+    "name": "stonjourner",
+    "number": 874,
+    "alternateNames": []
   },
   {
-    "name": "Eiscue",
-    "number": 875
+    "name": "eiscue",
+    "number": 875,
+    "alternateNames": []
   },
   {
-    "name": "Indeedee",
-    "number": 876
+    "name": "indeedee",
+    "number": 876,
+    "alternateNames": []
   },
   {
-    "name": "Morpeko",
-    "number": 877
+    "name": "morpeko",
+    "number": 877,
+    "alternateNames": []
   },
   {
-    "name": "Cufant",
-    "number": 878
+    "name": "cufant",
+    "number": 878,
+    "alternateNames": []
   },
   {
-    "name": "Copperajah",
-    "number": 879
+    "name": "copperajah",
+    "number": 879,
+    "alternateNames": []
   },
   {
-    "name": "Dracozolt",
-    "number": 880
+    "name": "dracozolt",
+    "number": 880,
+    "alternateNames": []
   },
   {
-    "name": "Arctozolt",
-    "number": 881
+    "name": "arctozolt",
+    "number": 881,
+    "alternateNames": []
   },
   {
-    "name": "Dracovish",
-    "number": 882
+    "name": "dracovish",
+    "number": 882,
+    "alternateNames": []
   },
   {
-    "name": "Arctovish",
-    "number": 883
+    "name": "arctovish",
+    "number": 883,
+    "alternateNames": []
   },
   {
-    "name": "Duraludon",
-    "number": 884
+    "name": "duraludon",
+    "number": 884,
+    "alternateNames": []
   },
   {
-    "name": "Dreepy",
-    "number": 885
+    "name": "dreepy",
+    "number": 885,
+    "alternateNames": []
   },
   {
-    "name": "Drakloak",
-    "number": 886
+    "name": "drakloak",
+    "number": 886,
+    "alternateNames": []
   },
   {
-    "name": "Dragapult",
-    "number": 887
+    "name": "dragapult",
+    "number": 887,
+    "alternateNames": []
   },
   {
-    "name": "Zacian",
-    "number": 888
+    "name": "zacian",
+    "number": 888,
+    "alternateNames": []
   },
   {
-    "name": "Zamazenta",
-    "number": 889
+    "name": "zamazenta",
+    "number": 889,
+    "alternateNames": []
   },
   {
-    "name": "Eternatus",
-    "number": 890
+    "name": "eternatus",
+    "number": 890,
+    "alternateNames": []
   },
   {
-    "name": "Kubfu",
-    "number": 891
+    "name": "kubfu",
+    "number": 891,
+    "alternateNames": []
   },
   {
-    "name": "Urshifu",
-    "number": 892
+    "name": "urshifu",
+    "number": 892,
+    "alternateNames": []
   },
   {
-    "name": "Zarude",
-    "number": 893
+    "name": "zarude",
+    "number": 893,
+    "alternateNames": []
   },
   {
-    "name": "Regieleki",
-    "number": 894
+    "name": "regieleki",
+    "number": 894,
+    "alternateNames": []
   },
   {
-    "name": "Regidrago",
-    "number": 895
+    "name": "regidrago",
+    "number": 895,
+    "alternateNames": []
   },
   {
-    "name": "Glastrier",
-    "number": 896
+    "name": "glastrier",
+    "number": 896,
+    "alternateNames": []
   },
   {
-    "name": "Spectrier",
-    "number": 897
+    "name": "spectrier",
+    "number": 897,
+    "alternateNames": []
   },
   {
-    "name": "Calyrex",
-    "number": 898
+    "name": "calyrex",
+    "number": 898,
+    "alternateNames": []
   },
   {
-    "name": "Wyrdeer",
-    "number": 899
+    "name": "wyrdeer",
+    "number": 899,
+    "alternateNames": []
   },
   {
-    "name": "Kleavor",
-    "number": 900
+    "name": "kleavor",
+    "number": 900,
+    "alternateNames": []
   },
   {
-    "name": "Ursaluna",
-    "number": 901
+    "name": "ursaluna",
+    "number": 901,
+    "alternateNames": []
   },
   {
-    "name": "Basculegion",
-    "number": 902
+    "name": "basculegion",
+    "number": 902,
+    "alternateNames": []
   },
   {
-    "name": "Sneasler",
-    "number": 903
+    "name": "sneasler",
+    "number": 903,
+    "alternateNames": []
   },
   {
-    "name": "Overqwil",
-    "number": 904
+    "name": "overqwil",
+    "number": 904,
+    "alternateNames": []
   },
   {
-    "name": "Enamorus",
-    "number": 905
+    "name": "enamorus",
+    "number": 905,
+    "alternateNames": []
   },
   {
-    "name": "Sprigatito",
-    "number": 906
+    "name": "sprigatito",
+    "number": 906,
+    "alternateNames": []
   },
   {
-    "name": "Floragato",
-    "number": 907
+    "name": "floragato",
+    "number": 907,
+    "alternateNames": []
   },
   {
-    "name": "Meowscarada",
-    "number": 908
+    "name": "meowscarada",
+    "number": 908,
+    "alternateNames": []
   },
   {
-    "name": "Fuecoco",
-    "number": 909
+    "name": "fuecoco",
+    "number": 909,
+    "alternateNames": []
   },
   {
-    "name": "Crocalor",
-    "number": 910
+    "name": "crocalor",
+    "number": 910,
+    "alternateNames": []
   },
   {
-    "name": "Skeledirge",
-    "number": 911
+    "name": "skeledirge",
+    "number": 911,
+    "alternateNames": []
   },
   {
-    "name": "Quaxly",
-    "number": 912
+    "name": "quaxly",
+    "number": 912,
+    "alternateNames": []
   },
   {
-    "name": "Quaxwell",
-    "number": 913
+    "name": "quaxwell",
+    "number": 913,
+    "alternateNames": []
   },
   {
-    "name": "Quaquaval",
-    "number": 914
+    "name": "quaquaval",
+    "number": 914,
+    "alternateNames": []
   },
   {
-    "name": "Lechonk",
-    "number": 915
+    "name": "lechonk",
+    "number": 915,
+    "alternateNames": []
   },
   {
-    "name": "Oinkologne",
-    "number": 916
+    "name": "oinkologne",
+    "number": 916,
+    "alternateNames": []
   },
   {
-    "name": "Tarountula",
-    "number": 917
+    "name": "tarountula",
+    "number": 917,
+    "alternateNames": []
   },
   {
-    "name": "Spidops",
-    "number": 918
+    "name": "spidops",
+    "number": 918,
+    "alternateNames": []
   },
   {
-    "name": "Nymble",
-    "number": 919
+    "name": "nymble",
+    "number": 919,
+    "alternateNames": []
   },
   {
-    "name": "Lokix",
-    "number": 920
+    "name": "lokix",
+    "number": 920,
+    "alternateNames": []
   },
   {
-    "name": "Pawmi",
-    "number": 921
+    "name": "pawmi",
+    "number": 921,
+    "alternateNames": []
   },
   {
-    "name": "Pawmo",
-    "number": 922
+    "name": "pawmo",
+    "number": 922,
+    "alternateNames": []
   },
   {
-    "name": "Pawmot",
-    "number": 923
+    "name": "pawmot",
+    "number": 923,
+    "alternateNames": []
   },
   {
-    "name": "Tandemaus",
-    "number": 924
+    "name": "tandemaus",
+    "number": 924,
+    "alternateNames": []
   },
   {
-    "name": "Maushold",
-    "number": 925
+    "name": "maushold",
+    "number": 925,
+    "alternateNames": []
   },
   {
-    "name": "Fidough",
-    "number": 926
+    "name": "fidough",
+    "number": 926,
+    "alternateNames": []
   },
   {
-    "name": "Dachsbun",
-    "number": 927
+    "name": "dachsbun",
+    "number": 927,
+    "alternateNames": []
   },
   {
-    "name": "Smoliv",
-    "number": 928
+    "name": "smoliv",
+    "number": 928,
+    "alternateNames": []
   },
   {
-    "name": "Dolliv",
-    "number": 929
+    "name": "dolliv",
+    "number": 929,
+    "alternateNames": []
   },
   {
-    "name": "Arboliva",
-    "number": 930
+    "name": "arboliva",
+    "number": 930,
+    "alternateNames": []
   },
   {
-    "name": "Squawkabilly",
-    "number": 931
+    "name": "squawkabilly",
+    "number": 931,
+    "alternateNames": []
   },
   {
-    "name": "Nacli",
-    "number": 932
+    "name": "nacli",
+    "number": 932,
+    "alternateNames": []
   },
   {
-    "name": "Naclstack",
-    "number": 933
+    "name": "naclstack",
+    "number": 933,
+    "alternateNames": []
   },
   {
-    "name": "Garganacl",
-    "number": 934
+    "name": "garganacl",
+    "number": 934,
+    "alternateNames": []
   },
   {
-    "name": "Charcadet",
-    "number": 935
+    "name": "charcadet",
+    "number": 935,
+    "alternateNames": []
   },
   {
-    "name": "Armarouge",
-    "number": 936
+    "name": "armarouge",
+    "number": 936,
+    "alternateNames": []
   },
   {
-    "name": "Ceruledge",
-    "number": 937
+    "name": "ceruledge",
+    "number": 937,
+    "alternateNames": []
   },
   {
-    "name": "Tadbulb",
-    "number": 938
+    "name": "tadbulb",
+    "number": 938,
+    "alternateNames": []
   },
   {
-    "name": "Bellibolt",
-    "number": 939
+    "name": "bellibolt",
+    "number": 939,
+    "alternateNames": []
   },
   {
-    "name": "Wattrel",
-    "number": 940
+    "name": "wattrel",
+    "number": 940,
+    "alternateNames": []
   },
   {
-    "name": "Kilowattrel",
-    "number": 941
+    "name": "kilowattrel",
+    "number": 941,
+    "alternateNames": []
   },
   {
-    "name": "Maschiff",
-    "number": 942
+    "name": "maschiff",
+    "number": 942,
+    "alternateNames": []
   },
   {
-    "name": "Mabosstiff",
-    "number": 943
+    "name": "mabosstiff",
+    "number": 943,
+    "alternateNames": []
   },
   {
-    "name": "Shroodle",
-    "number": 944
+    "name": "shroodle",
+    "number": 944,
+    "alternateNames": []
   },
   {
-    "name": "Grafaiai",
-    "number": 945
+    "name": "grafaiai",
+    "number": 945,
+    "alternateNames": []
   },
   {
-    "name": "Bramblin",
-    "number": 946
+    "name": "bramblin",
+    "number": 946,
+    "alternateNames": []
   },
   {
-    "name": "Brambleghast",
-    "number": 947
+    "name": "brambleghast",
+    "number": 947,
+    "alternateNames": []
   },
   {
-    "name": "Toedscool",
-    "number": 948
+    "name": "toedscool",
+    "number": 948,
+    "alternateNames": []
   },
   {
-    "name": "Toedscruel",
-    "number": 949
+    "name": "toedscruel",
+    "number": 949,
+    "alternateNames": []
   },
   {
-    "name": "Klawf",
-    "number": 950
+    "name": "klawf",
+    "number": 950,
+    "alternateNames": []
   },
   {
-    "name": "Capsakid",
-    "number": 951
+    "name": "capsakid",
+    "number": 951,
+    "alternateNames": []
   },
   {
-    "name": "Scovillain",
-    "number": 952
+    "name": "scovillain",
+    "number": 952,
+    "alternateNames": []
   },
   {
-    "name": "Rellor",
-    "number": 953
+    "name": "rellor",
+    "number": 953,
+    "alternateNames": []
   },
   {
-    "name": "Rabsca",
-    "number": 954
+    "name": "rabsca",
+    "number": 954,
+    "alternateNames": []
   },
   {
-    "name": "Flittle",
-    "number": 955
+    "name": "flittle",
+    "number": 955,
+    "alternateNames": []
   },
   {
-    "name": "Espathra",
-    "number": 956
+    "name": "espathra",
+    "number": 956,
+    "alternateNames": []
   },
   {
-    "name": "Tinkatink",
-    "number": 957
+    "name": "tinkatink",
+    "number": 957,
+    "alternateNames": []
   },
   {
-    "name": "Tinkatuff",
-    "number": 958
+    "name": "tinkatuff",
+    "number": 958,
+    "alternateNames": []
   },
   {
-    "name": "Tinkaton",
-    "number": 959
+    "name": "tinkaton",
+    "number": 959,
+    "alternateNames": []
   },
   {
-    "name": "Wiglett",
-    "number": 960
+    "name": "wiglett",
+    "number": 960,
+    "alternateNames": []
   },
   {
-    "name": "Wugtrio",
-    "number": 961
+    "name": "wugtrio",
+    "number": 961,
+    "alternateNames": []
   },
   {
-    "name": "Bombirdier",
-    "number": 962
+    "name": "bombirdier",
+    "number": 962,
+    "alternateNames": []
   },
   {
-    "name": "Finizen",
-    "number": 963
+    "name": "finizen",
+    "number": 963,
+    "alternateNames": []
   },
   {
-    "name": "Palafin",
-    "number": 964
+    "name": "palafin",
+    "number": 964,
+    "alternateNames": []
   },
   {
-    "name": "Varoom",
-    "number": 965
+    "name": "varoom",
+    "number": 965,
+    "alternateNames": []
   },
   {
-    "name": "Revavroom",
-    "number": 966
+    "name": "revavroom",
+    "number": 966,
+    "alternateNames": []
   },
   {
-    "name": "Cyclizar",
-    "number": 967
+    "name": "cyclizar",
+    "number": 967,
+    "alternateNames": []
   },
   {
-    "name": "Orthworm",
-    "number": 968
+    "name": "orthworm",
+    "number": 968,
+    "alternateNames": []
   },
   {
-    "name": "Glimmet",
-    "number": 969
+    "name": "glimmet",
+    "number": 969,
+    "alternateNames": []
   },
   {
-    "name": "Glimmora",
-    "number": 970
+    "name": "glimmora",
+    "number": 970,
+    "alternateNames": []
   },
   {
-    "name": "Greavard",
-    "number": 971
+    "name": "greavard",
+    "number": 971,
+    "alternateNames": []
   },
   {
-    "name": "Houndstone",
-    "number": 972
+    "name": "houndstone",
+    "number": 972,
+    "alternateNames": []
   },
   {
-    "name": "Flamigo",
-    "number": 973
+    "name": "flamigo",
+    "number": 973,
+    "alternateNames": []
   },
   {
-    "name": "Cetoddle",
-    "number": 974
+    "name": "cetoddle",
+    "number": 974,
+    "alternateNames": []
   },
   {
-    "name": "Cetitan",
-    "number": 975
+    "name": "cetitan",
+    "number": 975,
+    "alternateNames": []
   },
   {
-    "name": "Veluza",
-    "number": 976
+    "name": "veluza",
+    "number": 976,
+    "alternateNames": []
   },
   {
-    "name": "Dondozo",
-    "number": 977
+    "name": "dondozo",
+    "number": 977,
+    "alternateNames": []
   },
   {
-    "name": "Tatsugiri",
-    "number": 978
+    "name": "tatsugiri",
+    "number": 978,
+    "alternateNames": []
   },
   {
-    "name": "Annihilape",
-    "number": 979
+    "name": "annihilape",
+    "number": 979,
+    "alternateNames": []
   },
   {
-    "name": "Clodsire",
-    "number": 980
+    "name": "clodsire",
+    "number": 980,
+    "alternateNames": []
   },
   {
-    "name": "Farigiraf",
-    "number": 981
+    "name": "farigiraf",
+    "number": 981,
+    "alternateNames": []
   },
   {
-    "name": "Dudunsparce",
-    "number": 982
+    "name": "dudunsparce",
+    "number": 982,
+    "alternateNames": []
   },
   {
-    "name": "Kingambit",
-    "number": 983
+    "name": "kingambit",
+    "number": 983,
+    "alternateNames": []
   },
   {
-    "name": "Great Tusk",
-    "number": 984
+    "name": "great-tusk",
+    "number": 984,
+    "alternateNames": []
   },
   {
-    "name": "Scream Tail",
-    "number": 985
+    "name": "scream-tail",
+    "number": 985,
+    "alternateNames": []
   },
   {
-    "name": "Brute Bonnet",
-    "number": 986
+    "name": "brute-bonnet",
+    "number": 986,
+    "alternateNames": []
   },
   {
-    "name": "Flutter Mane",
-    "number": 987
+    "name": "flutter-mane",
+    "number": 987,
+    "alternateNames": []
   },
   {
-    "name": "Slither Wing",
-    "number": 988
+    "name": "slither-wing",
+    "number": 988,
+    "alternateNames": []
   },
   {
-    "name": "Sandy Shocks",
-    "number": 989
+    "name": "sandy-shocks",
+    "number": 989,
+    "alternateNames": []
   },
   {
-    "name": "Iron Treads",
-    "number": 990
+    "name": "iron-treads",
+    "number": 990,
+    "alternateNames": []
   },
   {
-    "name": "Iron Bundle",
-    "number": 991
+    "name": "iron-bundle",
+    "number": 991,
+    "alternateNames": []
   },
   {
-    "name": "Iron Hands",
-    "number": 992
+    "name": "iron-hands",
+    "number": 992,
+    "alternateNames": []
   },
   {
-    "name": "Iron Jugulis",
-    "number": 993
+    "name": "iron-jugulis",
+    "number": 993,
+    "alternateNames": []
   },
   {
-    "name": "Iron Moth",
-    "number": 994
+    "name": "iron-moth",
+    "number": 994,
+    "alternateNames": []
   },
   {
-    "name": "Iron Thorns",
-    "number": 995
+    "name": "iron-thorns",
+    "number": 995,
+    "alternateNames": []
   },
   {
-    "name": "Frigibax",
-    "number": 996
+    "name": "frigibax",
+    "number": 996,
+    "alternateNames": []
   },
   {
-    "name": "Arctibax",
-    "number": 997
+    "name": "arctibax",
+    "number": 997,
+    "alternateNames": []
   },
   {
-    "name": "Baxcalibur",
-    "number": 998
+    "name": "baxcalibur",
+    "number": 998,
+    "alternateNames": []
   },
   {
-    "name": "Gimmighoul",
-    "number": 999
+    "name": "gimmighoul",
+    "number": 999,
+    "alternateNames": []
   },
   {
-    "name": "Gholdengo",
-    "number": 1000
+    "name": "gholdengo",
+    "number": 1000,
+    "alternateNames": []
   },
   {
-    "name": "Wo-Chien",
-    "number": 1001
+    "name": "wo-chien",
+    "number": 1001,
+    "alternateNames": []
   },
   {
-    "name": "Chien-Pao",
-    "number": 1002
+    "name": "chien-pao",
+    "number": 1002,
+    "alternateNames": []
   },
   {
-    "name": "Ting-Lu",
-    "number": 1003
+    "name": "ting-lu",
+    "number": 1003,
+    "alternateNames": []
   },
   {
-    "name": "Chi-Yu",
-    "number": 1004
+    "name": "chi-yu",
+    "number": 1004,
+    "alternateNames": []
   },
   {
-    "name": "Roaring Moon",
-    "number": 1005
+    "name": "roaring-moon",
+    "number": 1005,
+    "alternateNames": []
   },
   {
-    "name": "Iron Valiant",
-    "number": 1006
+    "name": "iron-valiant",
+    "number": 1006,
+    "alternateNames": []
   },
   {
-    "name": "Koraidon",
-    "number": 1007
+    "name": "koraidon",
+    "number": 1007,
+    "alternateNames": []
   },
   {
-    "name": "Miraidon",
-    "number": 1008
+    "name": "miraidon",
+    "number": 1008,
+    "alternateNames": []
   },
   {
-    "name": "Walking Wake",
-    "number": 1009
+    "name": "walking-wake",
+    "number": 1009,
+    "alternateNames": []
   },
   {
-    "name": "Iron Leaves",
-    "number": 1010
+    "name": "iron-leaves",
+    "number": 1010,
+    "alternateNames": []
   },
   {
-    "name": "Dipplin",
-    "number": 1011
+    "name": "dipplin",
+    "number": 1011,
+    "alternateNames": []
   },
   {
-    "name": "Poltchageist",
-    "number": 1012
+    "name": "poltchageist",
+    "number": 1012,
+    "alternateNames": []
   },
   {
-    "name": "Sinistcha",
-    "number": 1013
+    "name": "sinistcha",
+    "number": 1013,
+    "alternateNames": []
   },
   {
-    "name": "Okidogi",
-    "number": 1014
+    "name": "okidogi",
+    "number": 1014,
+    "alternateNames": []
   },
   {
-    "name": "Munkidori",
-    "number": 1015
+    "name": "munkidori",
+    "number": 1015,
+    "alternateNames": []
   },
   {
-    "name": "Fezandipiti",
-    "number": 1016
+    "name": "fezandipiti",
+    "number": 1016,
+    "alternateNames": []
   },
   {
-    "name": "Ogerpon",
-    "number": 1017
+    "name": "ogerpon",
+    "number": 1017,
+    "alternateNames": []
   },
   {
-    "name": "Archaludon",
-    "number": 1018
+    "name": "archaludon",
+    "number": 1018,
+    "alternateNames": []
   },
   {
-    "name": "Hydrapple",
-    "number": 1019
+    "name": "hydrapple",
+    "number": 1019,
+    "alternateNames": []
   },
   {
-    "name": "Gouging Fire",
-    "number": 1020
+    "name": "gouging-fire",
+    "number": 1020,
+    "alternateNames": []
   },
   {
-    "name": "Raging Bolt",
-    "number": 1021
+    "name": "raging-bolt",
+    "number": 1021,
+    "alternateNames": []
   },
   {
-    "name": "Iron Boulder",
-    "number": 1022
+    "name": "iron-boulder",
+    "number": 1022,
+    "alternateNames": []
   },
   {
-    "name": "Iron Crown",
-    "number": 1023
+    "name": "iron-crown",
+    "number": 1023,
+    "alternateNames": []
   },
   {
-    "name": "Terapagos",
-    "number": 1024
+    "name": "terapagos",
+    "number": 1024,
+    "alternateNames": []
   },
   {
-    "name": "Pecharunt",
-    "number": 1025
+    "name": "pecharunt",
+    "number": 1025,
+    "alternateNames": []
   }
 ]
