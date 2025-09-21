@@ -1,3 +1,4 @@
 # pokemon-json
 
-run `node ./functions/fileFunctions.js` in terminal
+run `npm install` in terminal
+run `node runScript.js` in terminal
