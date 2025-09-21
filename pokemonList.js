@@ -9,7 +9,7 @@ fs.readFile(inputTxtFile, 'utf8', (err, data) => {
         return;
     }
     const lines = data.split('\n').filter(line => line.trim() !== ''); // Filter out empty lines
-    const jsonArray = lines.map((line, index) => ({ name: line.trim().toLowerCase(), number: index + 1, alternateForms: [] }));
+    const jsonArray = lines.map((line, index) => ({ name: line.trim().toLowerCase(), id: index + 1, alternateForms: [] }));
     const jsonString = JSON.stringify(jsonArray, null, 2);
 
     fs.writeFile(outputJsonFile, jsonString, 'utf8', (err) => {
