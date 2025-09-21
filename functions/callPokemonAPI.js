@@ -8,15 +8,17 @@ const getPokemonSpeciesData = async (pokemon) => {
   );
 };
 
-const createPokeObjectFromApiCall = async (pokemonApiObject) => {
-  return tryCatch("createPokeObjectFromApiCall", async () => {
+const createPokeVarietyObj = async (pokemonObject) => {
+  return tryCatch("createPokeVarietyObj", async () => {
     const results = [];
-    for (const obj of pokemonApiObject) {
+    for (const obj of pokemonObject) {
       const { id, varieties, name } = await obj.apiCall();
+
+      const alternateForms = varieties.map((variant) => variant.pokemon.name);
       results.push({
         id,
         name,
-        varieties,
+        alternateForms: alternateForms ? alternateForms : [],
       });
     }
 
@@ -26,5 +28,5 @@ const createPokeObjectFromApiCall = async (pokemonApiObject) => {
 
 module.exports = {
   getPokemonSpeciesData,
-  createPokeObjectFromApiCall,
+  createPokeVarietyObj,
 };
